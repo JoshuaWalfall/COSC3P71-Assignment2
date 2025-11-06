@@ -18,5 +18,3 @@ def Crossover():
 def Mutation():
     # Placeholder for mutation logic
     pass
-
-def 

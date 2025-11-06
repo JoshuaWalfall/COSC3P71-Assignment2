@@ -11,16 +11,22 @@ def main():
         input = getFile()
         if (input == "Error"):
             print("Invalid file input, please try again.")
-            return
+            continue
         
         #Set Parameters for the GA
-        params = getParameters()
-        if (params == "Error"):
-            print("Invalid parameter input, please try again.")
-            return
-        
+        while True:
+            params = getParameters()
+            if (params == "Error" or params is None):
+                print("Invalid parameter input, please try again.")
+                
+            
+            break
+        print(params)
         #Run Genetic Algorithm with input file and parameters
         print("Running Genetic Algorithm...")
         if (runGeneticAlgorithm(input, params) == "Error"):
             print("An error occurred while running the Genetic Algorithm.")
             return
+        break
+
+main()

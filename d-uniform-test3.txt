@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.9, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.711716248995984    0.583390093708166
+1    0.6886735100401605    0.583390093708166
+2    0.6697107844712182    0.5407957161981258
+3    0.6333767443105757    0.5405518072289157
+4    0.5998346104417671    0.5405518072289157
+5    0.5742162436412316    0.5273095046854083
+6    0.5594343319946452    0.4999659973226239
+7    0.5411619518072289    0.47810736278447113
+8    0.5275453145917001    0.47810736278447113
+9    0.5101371485943775    0.4677001338688086
+10    0.4962388192771084    0.4493772423025435
+11    0.48334552610441767    0.43303159303882194
+12    0.46417972423025433    0.4148971887550201
+13    0.44387930923694774    0.40023346720214187
+14    0.4288859036144579    0.3823057563587684
+15    0.41267563587684075    0.3719839357429719
+16    0.4007419946452477    0.35271004016064256
+17    0.385859609103079    0.35271004016064256
+18    0.3760091593038822    0.34021231593038825
+19    0.3654138768406961    0.33524524765729585
+20    0.3537630013386881    0.31254939759036143
+21    0.3437365087014726    0.31114886211512716
+22    0.33777588487282467    0.28042088353413647
+23    0.32581589558232926    0.28042088353413647
+24    0.31495757429718874    0.28042088353413647
+25    0.3067615957161981    0.27706479250334665
+26    0.2957759598393574    0.27595528781793843
+27    0.28591027309236944    0.25617804551539486
+28    0.28065104685408293    0.25617804551539486
+29    0.27608642034805886    0.25617804551539486
+30    0.2718159437751004    0.25617804551539486
+31    0.2640726077643909    0.25617804551539486
+32    0.26052682195448457    0.250435609103079
+33    0.25980125301204815    0.250435609103079
+34    0.25699861044176703    0.250435609103079
+35    0.25411902275769743    0.24819598393574296
+36    0.2534486613119143    0.24819598393574296
+37    0.2510746987951807    0.24766398929049532
+38    0.2517735020080321    0.24766398929049532
+39    0.25041428380187414    0.24083319946452472
+40    0.24898049263721553    0.24083319946452472
+41    0.24999658366800534    0.23785515394912984
+42    0.2493964872824632    0.23785515394912984
+43    0.24811912985274429    0.23785515394912984
+44    0.24504276840696115    0.23785515394912984
+45    0.24118648192771083    0.22566987951807227
+46    0.2413436144578313    0.22566987951807227
+47    0.23921108701472554    0.22566987951807227
+48    0.2374650736278447    0.22112155287817942
+49    0.23660702811244977    0.22112155287817942
+50    0.23103095046854083    0.22112155287817942
+51    0.22869779651941097    0.22112155287817942
+52    0.22397791700133868    0.22112155287817942
+53    0.22496963319946456    0.22112155287817942
+54    0.22301104685408302    0.22112155287817942
+55    0.22429049531459175    0.22112155287817942
+56    0.2245328808567604    0.22112155287817942
+57    0.2264260294511379    0.22112155287817942
+58    0.22525997858099064    0.22112155287817942
+59    0.22431368139223565    0.22112155287817942
+60    0.22359486746987955    0.21777483266398937
+61    0.22588573493975908    0.21242008032128507
+62    0.223441218206158    0.21242008032128507
+63    0.2219956492637216    0.21242008032128507
+64    0.21678691834002672    0.21242008032128507
+65    0.21750785542168669    0.21242008032128507
+66    0.2170762650602409    0.21242008032128507
+67    0.21524004283801867    0.21242008032128507
+68    0.21686399464524758    0.21242008032128507
+69    0.215895938420348    0.2117601070950468
+70    0.2169574912985274    0.2117601070950468
+71    0.2163095287817938    0.19621874163319947
+72    0.21254652744310568    0.19621874163319947
+73    0.20860101204819273    0.19621874163319947
+74    0.19960329049531458    0.19621874163319947
+75    0.19812656492637218    0.19621874163319947
+76    0.19766423293172689    0.19621874163319947
+77    0.19910706827309238    0.19621874163319947
+78    0.1992145890227577    0.19621874163319947
+79    0.1988103668005355    0.19621874163319947
+80    0.2002747576974565    0.19621874163319947
+81    0.19990131459170013    0.19621874163319947
+82    0.19954441767068276    0.19621874163319947
+83    0.198359234270415    0.19621874163319947
+84    0.2011149183400268    0.19621874163319947
+85    0.19947051137884875    0.19621874163319947
+86    0.20115725301204818    0.19621874163319947
+87    0.20027918340026774    0.19621874163319947
+88    0.20073140829986613    0.19621874163319947
+89    0.200538765729585    0.19621874163319947
+90    0.19958133868808567    0.19621874163319947
+91    0.20070448728246318    0.19621874163319947
+92    0.19861938688085676    0.19621874163319947
+93    0.19855813922356091    0.19621874163319947
+94    0.2000462409638554    0.19621874163319947
+95    0.19987330388219543    0.19621874163319947
+96    0.200730562248996    0.19621874163319947
+97    0.20034645247657296    0.19621874163319947
+98    0.20299645247657294    0.19621874163319947
+99    0.19823557697456493    0.19621874163319947
+
+Best Solution: tdvsisasuteeleburetasdlord
+Decrypted Text: 
+tsfherlocghbsmfsshaispwwaysxuewomanehnceteldkmhtlrdhiqzentiondeebneerajyoisernaqrinhiseuefzhfeclepstdandpvrdominapefahfwhoheousersebvtwasnoptuhtiefehtacjemotmbnakintklbcegorinentldlereylemotiknfhnethapontaartighlarlywarrhbiorrantizhiscsydprecioeobtbdminabajbalarpedminddejhsjtakaitisemosxcerfectnenzooingwnddmservmagmachijegoauthesoraohassirnbutaswlbceshewkulssaveppncedhimoeymioafahseezsitisahenevenscvkfoftdesdqterpefsionsswvrdiuhagebepydasnirrtheywarrhdniraxleisingsjbrtheoboeecesexcalltytforheawingtdeilimfroimecdmotizrsandacpibuscutfkrtwptrairrdreasojeeaobdmipsursintryfionsinpoupspwndalirlteanhsinelyazjhztfdteipeglmentanstointnoqbcfadiotrpntingjnctorwhecutihhttdrolldoubxhponalldifteotalnesjwtsgrmginasenoigpvfinsprubpntoreprackinknrvfiisosnhxrhpowielensessohsdootbamogpdistyebingthwnnztsongamoitonineaaturesqcuhsiisajdytetherijasbutojejvmbntodimpydthaxjomanwaotullbteinentldlerssdubiouoaakqvesteonpmlemeqbryihadoeruljttlaofwzlmespntelymyiaeyibgehwddgtftedyfawayfrkmrhciotharmnzwncoqcletehalpvuetsanzthtsomeciatredinpeelsuswhechgtseupeeoundthamnuwiofinstutndshmzselfmaotryoghiskwntdtablmfhmentwarrzugficeenieoabsseballmywtglnuionshiapholmifwholoaphrkeweryborbzfsocmrtywithdifdhplebkhebtansoyyremainadvuovrlozgicrsinbexerstreatobrjedaionvsisolhoooksanzayaesnatengucomweixtoweekxegdefncoyaicpandaqoitiontdeqyoxsinassdqthedvhgandthafvlrdeenargnzfhissjnkeennwthyeiewaostxwlasezrrdeepluagarbctezbyisestuhlofcrimaaakodcupeedwtsimmiasefacuhtvlsbndettrpzrdineeypoweroosvbtervwtidyinfopyowingoqtgooteclqespydcleeeinguptdoflmzsteniehhhichlndbeenaxaakooedaohoeplessfltheoffecvhlqoliyefgzmtimigotimeidenydtomeragjpaccoyatofhiszovugtofhessjxmonsxbodessaengoedasekftwptrepssfmurdenosoitclewricrupofxuesinguhaearbgeduofiseatkmasonbrophrysbttrencdxaleeeadfinalhybmtiemiosidywhicluehadacyozwljshezsosplicaxrlyandsqcplstfulhyfdctherivgningfwmvsypfhohlacobeyorqthesesegazoghiswctxgityhsjeverwhecupmfrelushpcedwixuallthenenkessofpheslilypvrssikneslvatmeofiyfdcmerfvvendandyozwaoionknectghtixjasonthatjlnuietdofblrchiansreturjianfsomafougyeytoecatientboephbdnosreifrnedxbcivilpnapaidewhanmnhaylehzethrouchohkfrstneeilsipawfedthewalyyenembaresooorwlvchmustwljhytbeaosortatedmamymindsigomzwooengpydwitlghedarkenppdfntskftwpstudcvnscarlatvdatseivedltthakirndesiratbzefholiesprainarqtoknowdojoexaseipldjinghmfextraondvuasyposerhsisroszswerebniysibntluliilndeviaasiloogeqbpjsawdisilllspeeefigurapnzsuwicainpoarksmyhouettaathiosttdebatndheanspacinctulrpomssifiwyeagielywithdifoebdsujkueznhisguestanddifoaodschasepdbehmadhimtoiejoolnewdistgerymsbdandhaxigoitattetuspandmeanertolztulisownotogjhewawntworkacavuhfhadnistyoutojuisdrugyrrhtfddraamhlndwawuotuponphrzcfntobsobpnewpvbblemirwntahfbelhanshasshsjnuptotdepoanbershirshadfsemerlybaeapnqartiyolyhismeanerwasjoglfgusireiideldoqjasbuthawnzgmadiphicvtoseizewithhwrqsybworzspdvenbuxjithakijdyfezehesavtometoeaarmchaergorfwacnoshsiscawrofcigansnudjndiyattoaspivvtcaseajdnnatgenainisecorrrrthenhasgvoebefkreisefirinndlookadzlowerijhihdingupnrintrooprjtjvefwshxzn
+Sorted Solutions:
+Solution    Fitness
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tlvsisasuteeleburetasddord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteelesuretabdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteelaburetesdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasdteeleburetasdloru    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdisvsasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+ldvsisasuteeleburetasdtord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdssivasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdrold    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.19621874163319947
+tdvsisasuteeleburetasdlord    0.22051405622489956
+tdvsisasuteeleburetasdlord    0.22051405622489956
+tdvsisasuteeleburedasdlort    0.2278149933065596
+tdvsisasuteeleburetasdlord    0.22983239625167337
+tdvsisasuteeleburetasdlord    0.2391186077643909
+tdvsisasuteeleburetasdlord    0.24120187416331992

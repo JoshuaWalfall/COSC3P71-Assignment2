@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.9, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7130786639892905    0.6359799196787148
+1    0.6958142516733601    0.624463721552878
+2    0.6827297269076306    0.6033263721552878
+3    0.6677004016064256    0.5719847389558234
+4    0.646855204819277    0.5622147255689426
+5    0.6151919009370816    0.5419973226238286
+6    0.5912884257028113    0.5293724230254351
+7    0.570267641231593    0.48007523427041504
+8    0.5472178072289157    0.48007523427041504
+9    0.5264097617135207    0.45191753681392244
+10    0.5123068915662651    0.4109429718875503
+11    0.48128170013386884    0.4041764390896922
+12    0.45510408299866134    0.3899231593038822
+13    0.42665538420348065    0.3794838018741633
+14    0.4070807309236948    0.36570923694779117
+15    0.3949789986613119    0.3460690763052208
+16    0.38285226238286474    0.3460690763052208
+17    0.3747809022757697    0.3460690763052208
+18    0.37055769745649264    0.33535957161981256
+19    0.35989633199464527    0.3198776439089691
+20    0.34975322356091026    0.3017552878179385
+21    0.33415387684069614    0.2951119143239625
+22    0.32389733065595716    0.28778366800535476
+23    0.31344644176706826    0.27038875502008036
+24    0.30037794109772425    0.2545135207496654
+25    0.2905047095046854    0.25096974564926366
+26    0.28270682730923696    0.24313467202141903
+27    0.26854212583668    0.24313467202141903
+28    0.25731313253012045    0.2351025435073628
+29    0.24906386077643908    0.2351025435073628
+30    0.24851413922356091    0.2351025435073628
+31    0.24590560107095047    0.2351025435073628
+32    0.24617802677376172    0.22937911646586345
+33    0.24247981526104417    0.22551271753681387
+34    0.23782983668005353    0.22551271753681387
+35    0.23422672289156626    0.22551271753681387
+36    0.23043020615796514    0.22551271753681387
+37    0.22994050602409632    0.22551271753681387
+38    0.22944302008032125    0.22551271753681387
+39    0.22872563855421682    0.22551271753681387
+40    0.22850110575635874    0.22551271753681387
+41    0.22848598125836678    0.22551271753681387
+42    0.22624668273092363    0.22551271753681387
+43    0.22743154484605083    0.22551271753681387
+44    0.22942643641231586    0.22551271753681387
+45    0.22678701740294507    0.22551271753681387
+46    0.2286373012048192    0.22551271753681387
+47    0.22865542168674693    0.22551271753681387
+48    0.22966550736278443    0.20403668005354747
+49    0.22772370013386875    0.20403668005354747
+50    0.22445933065595713    0.20403668005354747
+51    0.22337576171352072    0.20403668005354747
+52    0.21715429183400264    0.18851325301204822
+53    0.21115675234270412    0.18851325301204822
+54    0.2053967255689424    0.18851325301204822
+55    0.20294889959839357    0.18851325301204822
+56    0.19521886746987951    0.18851325301204822
+57    0.19238452744310577    0.18851325301204822
+58    0.19203930120481927    0.18851325301204822
+59    0.19447974297188758    0.18851325301204822
+60    0.1919552985274431    0.18851325301204822
+61    0.19313968942436413    0.18851325301204822
+62    0.19020312449799198    0.18851325301204822
+63    0.1917461231593039    0.18851325301204822
+64    0.19126949129852747    0.18851325301204822
+65    0.19096491030789828    0.18851325301204822
+66    0.19073992235609105    0.18851325301204822
+67    0.19047851137884877    0.18851325301204822
+68    0.19236263186077646    0.18851325301204822
+69    0.19109733333333334    0.18851325301204822
+70    0.19313560642570285    0.18851325301204822
+71    0.19221057563587685    0.18851325301204822
+72    0.1916123935742972    0.18851325301204822
+73    0.1925324123159304    0.18851325301204822
+74    0.19342034538152614    0.18851325301204822
+75    0.19098855957161984    0.18851325301204822
+76    0.19067643373493978    0.18851325301204822
+77    0.19233922356091032    0.18851325301204822
+78    0.1915163828647925    0.176045515394913
+79    0.19083037483266402    0.176045515394913
+80    0.19196859973226238    0.176045515394913
+81    0.191825327978581    0.176045515394913
+82    0.18873994912985279    0.176045515394913
+83    0.1840739625167336    0.176045515394913
+84    0.18004673627844714    0.176045515394913
+85    0.17978705488621152    0.176045515394913
+86    0.17781740829986614    0.176045515394913
+87    0.17930257563587684    0.176045515394913
+88    0.17865816331994647    0.176045515394913
+89    0.17742143507362787    0.176045515394913
+90    0.17745905220883537    0.176045515394913
+91    0.17857920481927714    0.176045515394913
+92    0.17822903346720217    0.176045515394913
+93    0.17871493172690767    0.176045515394913
+94    0.17795084069611783    0.176045515394913
+95    0.1781011137884873    0.176045515394913
+96    0.17750904149933067    0.176045515394913
+97    0.17829760107095047    0.176045515394913
+98    0.17751092637215532    0.176045515394913
+99    0.17884890495314593    0.176045515394913
+
+Best Solution: thistoasupersigurbtwssword
+Decrypted Text: 
+toshtvlockholiasskamsalwaysthelsmanihavaoelgkqheardhimmecxionherujzerdjcothernameicliseyessdaecoetsesandpreddqinatestdawhrhiofhersexitlesnotthapdefhhxanyemotionpointolovaborlnineadleralltqotionsajzthdpsneparticulpvlywereaxdoruarttohiscoldevecisebupwdmlneblybalancesqindhewaoetanamtthemostpegjectreaskjinjwrdobservingbechinethwpthhssrldhasseenqytasalovanhezkyldhaveplacthhimselfejafdhwepositionhtreverspogaofwdisofterpassxsnssavewephajefeandasneerileywereaziirdxpethingsforileobservanexfaplentfordralmngtheveehfrriqensmotivesprdactionoxutikvthetrainedgiasonertkwdmlpwuchintrusidrsintohiokwngapicateandficilyadjuspadthiteramentwasisintroduyaadloxractingfacisrwhichmechtwdvowadoubtupdrallhismajtaonisultsgriticesensitirainvpvumentoracrpgkinoneobdisrsrhighpowerltrseswoulzjoteaqoredisturbxrgthanaspnonjaqotioninanaiyresuchaodisdjhyettherewahfutonewoiwntrdmmandthatwobenwasthehwtelnineadlerofdjfiousandmqeswesnablememornmhadseenhettoasfholmeslattpymymarrewgekwhdriftedusaleyfromeaydotkavmyowncompltxehappinaosaqzxhehomecentgidintereopswkeghriseuparojrdthemansdoflnwtfindshimstpfmasterkbhivkanestablishbintweresqbfifeinttoabsorbpplmyattejpioqslileholmeswwsloathedarerbbsrmofsocietnaithhiswdkleeklemiansoulrtqainedinkqrlrzkingsinbakegwtreetbuneeddisnghisoldbodosandaltannawergfromweektdaeekbetwaancryeineandambiimonthedrkssiqawsofthedrugprdthefienyeeqavgyofhisownziennaturadewdowtillaseversieplyattnwcthzfythestudyougrimeandkycuseidhisimmenstjacultieowndhtxraordinaryeswersofoxoerywxioninfollolmngoutthkoecoqisandclearickupthoseiusthnmeswhichhadqienabandkjeddolopelessbytwiofficiahlollyifromtimetoimmeihearzoomhregueaccountdjhisdoincoofkewsummonstoosissainthayashkjthetrepoffbyrderofheoclhwvingupofthehmngulartnwgegusftheatkinsdrbrotherowttuercomaleeandumnallyofpdemlowionwhichhewedaccompheshhzwodelicatelnendsucceoofuohcforthereigcmngfamilukfhrhpandbeyondtwisesignskbhivwgtivityhowekirwhichiiareouwharedwithaapthereadansoipledailypreshmknewlitpheoiicformerfriechandcompwjioqkrenightitwahsnthetwejpiewdsfmarchiwasgiturningbnomdfsurneytoapaimentforidwdnrsveturnedtocxzilpracteyewkarmywayledmeilroughbagarswnietasipassesxhewellraiemeaveddoorwhicwqustalwauobedowociatedinmnqindwithiuworergandwithththarkincizantvkjthestudyinhgarletiwwoselvidwithakeensisiretosaahooiisagainandtdonowhowhasashitloyinghisemxraordinwnyprsirshisroomslirebrillewntoupitandevenahmlookedulesazdmstallspareumgurepasopwifamnadarksilhdyetteagaejstwdiblindhewaseecingthenkomvsmftlyeagerlnaithhishawdsxjouponhischehxandhishwjdsfhespedbehindwmmtomewhkgnezdmseverymoodprdhabitheoatwexudeandmanntvtoldtheenowqoxoryhewasatlsrkagaindahagnmsenoutofhihhrugcreapadduaemsandwashoiyponthesyantrbwomenewprobaimirangtdabeohendwasshownjttothechwibeuslichhadformtvlybeenijlarwicownhismanntvwasnotebbuslriitseldomwahfuthewaschadlplinktoseemelmthhardluwwouzwpokenbutwiilakindlyauehhsevedmetoanagqchairthnawafnssshiscaseougigarsanzendlyetedaspiritreseandagwogeqamnthecornerilenhestokzbeikvethefireanspookedmekrerljlissingularxrtrospecpeveiwwhion
+Sorted Solutions:
+Solution    Fitness
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistsaoupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasrpersiguubtwssword    0.176045515394913
+thistoasupersigudbtwssworr    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigwrbtwssuord    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasuptrsigurbewssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurotwsswbrd    0.176045515394913
+thigtoasupersisurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.176045515394913
+thistoasupersigurbtwssword    0.1898741633199465
+thistoasupersigurbtwssword    0.1898741633199465
+thistoasupersigurbtwssword    0.19282864792503346
+thistoasupersigurbtwssword    0.19302650602409638
+thistoasrpersigurbtwsswoud    0.19466586345381529
+thistoasupersigurbtwssword    0.2075850066934404
+thistoasupersigurbtwssword    0.20872208835341366
+thistoasupersigurbtwssword    0.21368353413654617
+thistoasupersigurbtwssword    0.21889718875502007
+thistoasupersigurbtwssword    0.2316369477911646

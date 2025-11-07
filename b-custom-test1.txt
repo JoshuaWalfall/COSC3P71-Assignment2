@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7149197590361446    0.6485978580990628
+1    0.6966112476572959    0.6263651941097724
+2    0.6755682623828647    0.611639625167336
+3    0.6575836331994646    0.5978350736278446
+4    0.6371167068273093    0.5812380187416332
+5    0.6173407255689424    0.5603440428380189
+6    0.5986679678714859    0.544811780455154
+7    0.5760579170013387    0.5221914323962518
+8    0.5599192021419009    0.4939416331994644
+9    0.5411570120481928    0.48246345381526107
+10    0.5223545408299867    0.44513199464524766
+11    0.5037069799196787    0.4297370816599733
+12    0.4821530414993307    0.39554805890227573
+13    0.45958915127175365    0.39554805890227573
+14    0.44462586880856764    0.38737884872824624
+15    0.4221502918340027    0.38737884872824624
+16    0.4037499732262383    0.3565890227576975
+17    0.391777844712182    0.32546398929049536
+18    0.37324746184738955    0.3073392235609103
+19    0.35257440963855424    0.3073392235609103
+20    0.338864655957162    0.30471432396251674
+21    0.328566749665328    0.30136760374832655
+22    0.3178963694779116    0.2859726907630522
+23    0.31056941365461843    0.2859726907630522
+24    0.30848862115127174    0.2800859437751004
+25    0.29938043641231593    0.26923908969210175
+26    0.29298838554216866    0.25317483266398927
+27    0.28330209906291837    0.23510254350736282
+28    0.2699359518072289    0.2344331994645248
+29    0.25798618473895585    0.2344331994645248
+30    0.2468837483266399    0.22773975903614457
+31    0.24033541365461847    0.22718795180722892
+32    0.23538766265060243    0.21569156626506025
+33    0.23370729049531458    0.20899812583668007
+34    0.23075975100401608    0.20871646586345383
+35    0.22523107898259706    0.20871646586345383
+36    0.2186785863453815    0.20871646586345383
+37    0.21535613386880859    0.20336171352074967
+38    0.21209405890227578    0.20336171352074967
+39    0.2112917938420348    0.20282971887550202
+40    0.21371568674698796    0.20282971887550202
+41    0.2105470281124498    0.20282971887550202
+42    0.20748729585006692    0.20282971887550202
+43    0.20747911111111111    0.20282971887550202
+44    0.20667904417670685    0.20282971887550202
+45    0.20905817670682733    0.20282971887550202
+46    0.20666315662650603    0.20282971887550202
+47    0.20704325568942436    0.1926522088353414
+48    0.2054356546184739    0.1926522088353414
+49    0.20710127443105758    0.1827493975903614
+50    0.20096057028112452    0.1827493975903614
+51    0.1945325702811245    0.1827493975903614
+52    0.1873059036144578    0.1827493975903614
+53    0.18657145649263718    0.1827493975903614
+54    0.18699389558232926    0.1827493975903614
+55    0.18643537081659972    0.1778647925033467
+56    0.18853780455153946    0.1778647925033467
+57    0.18498344042838016    0.1698945113788487
+58    0.1846461178045515    0.1698945113788487
+59    0.17979867202141897    0.1698945113788487
+60    0.17455515394912982    0.1698945113788487
+61    0.17523329852744307    0.1698945113788487
+62    0.17449855421686744    0.1698945113788487
+63    0.17408144310575632    0.1698945113788487
+64    0.17330136546184735    0.1698945113788487
+65    0.1731872208835341    0.1698945113788487
+66    0.17314910040160642    0.1698945113788487
+67    0.1748510147255689    0.1698945113788487
+68    0.17267640428380188    0.1698945113788487
+69    0.1726357643908969    0.1698945113788487
+70    0.17454761445783132    0.1698945113788487
+71    0.1739443721552878    0.1698945113788487
+72    0.17283746987951804    0.1698945113788487
+73    0.1730214966532798    0.1698945113788487
+74    0.1726364283801874    0.1698945113788487
+75    0.17165492904953145    0.1698945113788487
+76    0.17259228915662647    0.1698945113788487
+77    0.175357046854083    0.1698945113788487
+78    0.17323652476572957    0.1698945113788487
+79    0.17292666666666665    0.1698945113788487
+80    0.17469858902275767    0.1698945113788487
+81    0.1717792315930388    0.1698945113788487
+82    0.17393491030789826    0.1698945113788487
+83    0.17458078447121816    0.1698945113788487
+84    0.1750014002677376    0.1698945113788487
+85    0.1728788487282463    0.1698945113788487
+86    0.17380069076305218    0.1698945113788487
+87    0.17371090763052205    0.1698945113788487
+88    0.17387083534136544    0.1698945113788487
+89    0.17714728514056222    0.1698945113788487
+90    0.173192093708166    0.1698945113788487
+91    0.17214718072289156    0.1698945113788487
+92    0.1707157617135207    0.1698945113788487
+93    0.1740237617135207    0.1698945113788487
+94    0.17524953413654615    0.16751593038821955
+95    0.17235104149933062    0.16751593038821955
+96    0.17386810441767064    0.16751593038821955
+97    0.1729238313253012    0.16751593038821955
+98    0.17235706559571617    0.16751593038821955
+99    0.17164746720214188    0.16751593038821955
+
+Best Solution: thwstsalupehsecucepasswprd
+Decrypted Text: 
+toehtrlvckhylmeshheisalvaysttelomhnihkveseadomheaqdhimyectivnhebundeganyothdrnamqichizeyecsheerlipseszndprqddmiuatecthewwoleofhdrsexutlasuottratheueltanydmotianpkiutolyvefogireneacleraxltmoaioncandtwatonepzrticglprlfweroabhogrenttogiscoxderejiselutadbirablyaalanoesmiudhegasitpkeitthdmostbegfejtreksonicgandobrervizgbacoinedhattweworldgasseqnquthsalyverhtwouldhzveplmctdhpmsevfinaualseporitiozhtnecerszokeouthesofserpaesxonzsavowithpgibeancasneqrihefweroadmigablethhngsfarihevbsebveremcellensforddalinnthefeilfgommenslotivqspndhctiynsbuiforthesrainqdgeazonebtoadbitsuchhntrueidnspntorisowcdelicaseandricelfadjestediemperalentwmsioiutronuceasistracsingfmciordhicrmighithrowacoubtgpdnaslhicmentplresulssgrificaslnsidiveicstrumemtoraorpckpnonoofhihownhiggpowedltnslswoeldnoibemorecistudbxngahankstrocgemotinninazaiurlsucrashihandyetshereiahbuaonegomaniohimancthatiobandastrelattireneaclerordjbivusaxdquehtionabkememarnihhdseonlitileofhokmeslmttlytymabriagthaddrieteduealaymromoachoihermyovncombltteoappsnesspndthehnmeceztgedpntebestslhichrireupadojndahemknwhouirstfimdshiystlftastorofhxsownessabliehbenawerosuffxcienttnabsodbplltyatdentidnwhilegolmeewwolvathodevegyformoesociqtnwiahhicwholtbohemiznsouxrtmapnedsnouraodgingrinbawegstyeetluriesamonghhsoldnodkshndavternptingfrnmweewtdwelkbedweenrocainezndamniiiouthenrowsxnessofshedrggpndahefsercetnergyoehisoinzeeunaterehelasstilkasevqrseewlyadtraciedbythdstudkoucrpmeaxdoccjpiedhirimmezstfajultsesansextraoqdinadyeowlrsopobsegvationhnfolxolinnoutdhoserluesanccleadicguwthocemysierieswgichhmdqeeuabaxdonesashopekessbktweomficsalpoaicefroltimefoiimlihekrdsobevaguezccouztdfhpsdosngsouhissumlonstaoseszaindhecaheofthesreporfburkerophiscaearingtpofttehinnulabtragtdyofthdatkizsdnbyothorsatirincomzleeazduinhllyyfthebissionvhichtewadhccowpliswedsodekicatqlnanksucmessfjllyforshereugcinnfamslyofwollandaeyonptweslsigxsofhxsactivhtyhoiekerdhicrimertlysharddwittaaltoerekdersdfthedahlyprqshikuewlsttledfmyforlerfruecdaudcowpanidnonenifhtitiahonahetgentitthofmaqchiwmsgetbrnixgfrobajourndytoabaiieutfobihadcowretuqnedtacxvispramticelhenmywzyledyeihrvughlakerhtreetaripaseesthlwelvremebbereddnorwhucwmuztalgaysbtassociztedizmnmiudwidhmywdoingancwithfhtdaykinmidenisofthertudyunhcayletswasstizedwishakeqnsespretyseehdlmesagzinanptdknvwhoghewahemployhnghieemtrhordsnaryeowershhsrooyslerlbrivlianilylitamdevezahilvokenupispwhistaklspadeuigbrepksstwxceinadzrksixhdueateaqainsitheblimdhewmseacpngtreroobswiftlxeagedlnwiahhicheadhunkupomhisctehtaudhichandhclaspecbehizdwimaomeghokntwhisevdrymoadpndoabidhisaititudezndmazntrtvldtreirolnstorygewasmtlorragasnhehpdrisennutoftihdrbgcroatedsreamsamdwastoiupvnthosceniofsomemewprabaempranqthebtllandwzsshoinjptvthemhambtrwhichgadfodmtrlfbeexinpagtmyowngismazntrwhsnodeffuhiveitsdldomiahbuahewksglasithinksoseeyelitoharnlyawdrdspokdnbutiiiharindvyeyewewavedletoazagmcoairdhrewpcrosshhscasqoucinarskndinsicatedzspirutraslandkgasgtneinthdcornqriheuhesdoodbtforethdfiremnslovkedweoveginhisshngulmrxntyospoctivtfashiom
+Sorted Solutions:
+Solution    Fitness
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwutsalupehsecscepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thestsalupwhsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.16751593038821955
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+ehwstsalupehstcucepasswprd    0.1698945113788487
+thtswsalupehsecucepasswprd    0.1698945113788487
+uhwstsalupehsectcepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecscepasuwprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwltsasupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwatsslupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1698945113788487
+thwstsalupehsecucepasswprd    0.1863330655957162
+thwslsatupehsecucepasswprd    0.19500267737617136
+thwstsalupehsecucepasswprd    0.20379785809906295
+thwstsalupehsecucepasswprd    0.20531726907630524
+thwstsalupehsrcucepasswped    0.21581526104417667
+thwstsalupehsecucepasswprd    0.2272077643908969
+thwstsalupehsecucepasswprd    0.2274580990629183
+thtswsalupehsecucepasswprd    0.22812744310575633

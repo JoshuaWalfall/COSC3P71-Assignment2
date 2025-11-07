@@ -1,14 +1,15 @@
+import re
 class Evaluation:
     #decrypt the text (t) using key (k)
     def decrypt(k, t):
         #Sanitize the cipher and the key
         cipher = t.lower() #String
-        cipher = cipher.replace("[^a-z]", "")
-        cipher = cipher.replace("\\s", "")
+        cipher = re.sub("[^a-z]", "", cipher)
+        cipher = re.sub("\\s", "", cipher)
 
         ke = k.lower() #String
-        ke = ke.replace("[^a-z]", "")
-        ke = ke.replace("\\s", "")
+        ke = re.sub("[^a-z]", "", ke)
+        ke = re.sub("\\s", "", ke)
 
         key = list(ke) #Char[]
         for i in range(len(key)):
@@ -36,8 +37,10 @@ class Evaluation:
     def encrypt(k, t):
         #Sanitize the cipher and the key
         plain = t.lower() #String
-        plain = plain.replace("[^a-z]", "")
-        plain = plain.replace("\\s", "")
+        #plain = plain.replace("[^a-z]", "")
+        plain = re.sub("[^a-z]", "", plain)
+        #plain = plain.replace("\\s", "")
+        plain = re.sub("\\s", "", plain)
         cipher = "" #String
 
         ke = k.lower() #String
@@ -100,18 +103,21 @@ class Evaluation:
     
         #Sanitize the cipher text and key
         d = t.lower() #String
-        d = d.replace("[^a-z]", "")
-        d = d.replace("\\s", "")
-        cipher = [] #Int[]
+        d = re.sub ("[^a-z]", "", d)
+        d = re.sub ("\\s", "", d)
+        cipher = [0] * len(t) #Int[]
         for x in range(len(t)): #Maybe len(d)?
             cipher[x] = (ord(d[x]) - 97)
 
         ke = k.lower() #String
-        ke = ke.replace("[^a-z]", "")
-        ke = ke.replace("\\s", "")
-    
+        ke = re.sub ("[^a-z]", "", ke)
+        ke = re.sub ("\\s", "", ke)
+
         key = list(ke) #Char[]
         for i in range (len(key)): 
+            #print(i)
+            #print(key[i])
+            #print(ord(key[i]))
             key[i] = chr(ord(key[i])-97)
 
         charCounts = [0] * 26
@@ -133,7 +139,7 @@ class Evaluation:
         
         #Count the occurences of each character
         for x in range(len(plain)):
-            charCounts[x] += 1
+            charCounts[plain[x]] += 1
         
         #Calculate the total difference between the expected frequencies and the actual frequencies 
         score = 0 #Double

@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 40, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7123516618209641    0.6520266258607497
+1    0.7012569364957919    0.6520266258607497
+2    0.6920910252486611    0.644413312930375
+3    0.6836674720734507    0.6373657230298392
+4    0.6724933771996939    0.6366384085692425
+5    0.6680795087987758    0.6364201989288449
+6    0.6647208737566948    0.629410405508799
+7    0.6607677230298392    0.629410405508799
+8    0.6527834353481254    0.629410405508799
+9    0.6452515011476665    0.6167077276205051
+10    0.6371080749808723    0.6127017597551645
+11    0.629020169854629    0.6127017597551645
+12    0.6211287911247131    0.6098217291507267
+13    0.6152600367253251    0.6098217291507267
+14    0.6126862846212701    0.608291507268554
+15    0.6119129120122417    0.608291507268554
+16    0.6107726044376435    0.608291507268554
+17    0.6094950864575364    0.608291507268554
+18    0.6086740627390972    0.608291507268554
+19    0.6083374139250192    0.608291507268554
+20    0.608291507268554    0.608291507268554
+21    0.608291507268554    0.608291507268554
+22    0.608291507268554    0.608291507268554
+23    0.608291507268554    0.608291507268554
+24    0.608291507268554    0.608291507268554
+25    0.608291507268554    0.608291507268554
+26    0.608291507268554    0.608291507268554
+27    0.608291507268554    0.608291507268554
+28    0.608291507268554    0.608291507268554
+29    0.608291507268554    0.608291507268554
+30    0.608291507268554    0.608291507268554
+31    0.608291507268554    0.608291507268554
+32    0.608291507268554    0.608291507268554
+33    0.608291507268554    0.608291507268554
+34    0.608291507268554    0.608291507268554
+35    0.608291507268554    0.608291507268554
+36    0.608291507268554    0.608291507268554
+37    0.608291507268554    0.608291507268554
+38    0.608291507268554    0.608291507268554
+39    0.608291507268554    0.608291507268554
+40    0.608291507268554    0.608291507268554
+41    0.608291507268554    0.608291507268554
+42    0.608291507268554    0.608291507268554
+43    0.608291507268554    0.608291507268554
+44    0.608291507268554    0.608291507268554
+45    0.608291507268554    0.608291507268554
+46    0.608291507268554    0.608291507268554
+47    0.608291507268554    0.608291507268554
+48    0.608291507268554    0.608291507268554
+49    0.608291507268554    0.608291507268554
+50    0.608291507268554    0.608291507268554
+51    0.608291507268554    0.608291507268554
+52    0.608291507268554    0.608291507268554
+53    0.608291507268554    0.608291507268554
+54    0.608291507268554    0.608291507268554
+55    0.608291507268554    0.608291507268554
+56    0.608291507268554    0.608291507268554
+57    0.608291507268554    0.608291507268554
+58    0.608291507268554    0.608291507268554
+59    0.608291507268554    0.608291507268554
+60    0.608291507268554    0.608291507268554
+61    0.608291507268554    0.608291507268554
+62    0.608291507268554    0.608291507268554
+63    0.608291507268554    0.608291507268554
+64    0.608291507268554    0.608291507268554
+65    0.608291507268554    0.608291507268554
+66    0.608291507268554    0.608291507268554
+67    0.608291507268554    0.608291507268554
+68    0.608291507268554    0.608291507268554
+69    0.608291507268554    0.608291507268554
+70    0.608291507268554    0.608291507268554
+71    0.608291507268554    0.608291507268554
+72    0.608291507268554    0.608291507268554
+73    0.608291507268554    0.608291507268554
+74    0.608291507268554    0.608291507268554
+75    0.608291507268554    0.608291507268554
+76    0.608291507268554    0.608291507268554
+77    0.608291507268554    0.608291507268554
+78    0.608291507268554    0.608291507268554
+79    0.608291507268554    0.608291507268554
+80    0.608291507268554    0.608291507268554
+81    0.608291507268554    0.608291507268554
+82    0.608291507268554    0.608291507268554
+83    0.608291507268554    0.608291507268554
+84    0.608291507268554    0.608291507268554
+85    0.608291507268554    0.608291507268554
+86    0.608291507268554    0.608291507268554
+87    0.608291507268554    0.608291507268554
+88    0.608291507268554    0.608291507268554
+89    0.608291507268554    0.608291507268554
+90    0.608291507268554    0.608291507268554
+91    0.608291507268554    0.608291507268554
+92    0.608291507268554    0.608291507268554
+93    0.608291507268554    0.608291507268554
+94    0.608291507268554    0.608291507268554
+95    0.608291507268554    0.608291507268554
+96    0.608291507268554    0.608291507268554
+97    0.608291507268554    0.608291507268554
+98    0.608291507268554    0.608291507268554
+99    0.608291507268554    0.608291507268554
+
+Best Solution: tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete
+Decrypted Text: 
+stbwcdlwxkuzjracuauacgeavmqyafhppoqyreqalqjhkdflmaciunzsebxsviwqfdizlmsqrujgjbjhrakblqgnltvxcuyxnazrfhuffnsplyjbzjovxhsdwuhhcsjffzcxbmqakcswcnessmhdnuzmoefpzxhpulwqoqrwnmwvbjhlatngshydygxbturzpedrzozpbovrhhpacyxanrniudbdqekceisdmrickheukctrhaeicwakqaeirricjgjencizdoyqveomkzqzaczjwfzvrjhwstpjweznrebkznakyzctblgsgrbvruglwbydmtwtjocuvcewhsynofreeafktqnzmhbnsttlewbgevruiqtmuroadmojxlluxahutysupbypzyjajvpqgemkwqacqufqotiwhtmpcknkdoexsbkqcntntywelzjqawamjyrvdblaojkxqpkynwcddgfjsuaneybkbcpuzaznusclfdusygmzvbncvfbqiapvgatflfwbaliblogeuehmpoiljofzdtqdxpjmdbpyqyemmljmswhciryduloxacjfadzjmlmevheanbakytlmkrgkartgvvjqinlnsqrbkokhmsbkpffigimzqvqrzllywuokkhkbghpgiejdmthrexgabmekoomcarfwreroqrfoqrtlinhnjtolswxxtenljmmjmnbvhhglrwxlvdftsboagltybpmjglhnooyrntdfnhwmmufauuzsjxnngihtuqdxrknjimrjvecqaomeudwioxegdgikiuzhezhazalmyqfypoxjfpootzwuifjxdkieynywfeajhowvbnrszlcvpkrtvthsfonjdrjflrdrtuhrkeavanmjlkeeozfystenkijwmgszrjmtbhhejosppntwxesjbfoolqdubhxpzolotnwotabrikhyhxovigdnopwxsrgbwecuvuxqrkatwiwkjdqwjpuioirdlabtlelkazfqkaoxmmiimqxthicifpjorixlrlfhsohkdgtubkbdqxhqfadqxjhrjhvvcyiehfylpfknblovupedslqfcfvxpdniseuixjpjwwfqqmrmvbredhxbpuwecnmwholpqomlmitkmhdrwtnyyuopcwbihhlrkepdnftfzefsuvxdvwhnevgquplshusjashszswwpmdjtydyeqglcnlgtfrkiiuwnlnrsqgzhywexaolchgyetzjaniixnocrltwkqfishqylycmdtpzlwkyllkhidzfidqqqykpmkqvttposqtpshftvljywrkpxpynklpnjcgxupyeerulwhyhhjwhhvqierlphxsabpwkirbuethitmsaxfyjftuqqbblrosrvijsgzjlnewazmsypqzuikvntmlfsxoaznedhhsjnsbbjxlfkaypofcsrtcrhdwizlgbbdtetnayiisiwyzhxlvovognyxttyhpasrcyprhchzpdzscediavzhnldbtruswuznhrhpcveozsexamufljjrqnozibingurvskcyylpxchhwolzcbxcszhhpxsgapbosrjzwmopmsbnsktfrmndtuactcwedsbihcatdftugtpvestflklcpandtvxtebkmarkghdciwnvzkyvyjbxeetnzuhvctswdmcogburzbwebxkunieinouovghflleshvsopgxilbgthbfnnwamdakhrlktwhxsbxoltsymlqaaousquloujlvlnkiipdrbrleehdiunrjbogithvrriktfdnpqsqrwulkybxkephdraxoigbwncnqelerwzobpcjeksqilmzxzwnsnqjwpfaphspampwasitonqbpxjvjuhyewayrrejzbdmumdbiyfgcemoiqaluedeloecliwjcqqpyqtvtwocnqmtmxurskkwqeznljbhqdxkgbzrabvtkmkdwutfxrwrtmmlgscyinjcnvxeethdruktzphavclfpjsvbmdzxtsotqnbbdjqdwqqnlxywcognmcvsdyssmimsjozzvtulbpwohkdfehevthyksvbehtodtfyrpchdenneepmtuzoosgdbtniicuydmdnysishvltpixvsbpajbdlqdjatwhwlsizrlvibhtythhjrasozznmkukazaxxwrkwxnkutkuoupiwxszlhmezrxqbxbhjnykevglkygiygcpikzawssssnufmqsundblfdlzrxlpxqntzkqjzrbtglngaeivlhunmudfxizublktiuryqxkhgwlhxmjjdlroeehinschphkloojzswtxhepsfrjeqahtutrhxetxlpaaervocydxwicifxxnecqhsizrsddwxdvedtcdmtnbcdotylayjbplbwuihzmunbsgahzicabxjqnjapplpedwylqgliistmbxyeyjlrobdirfmlocyftgnmtqytnobxdgyeevtqooxsosgcnnqpcfylkatyovnaijcppwauzajlgsjwpriopgotpkstsyfrhksnrxhrioagdafeigwdseimsgbolejwydxzesxomnldlhwbbrk
+Sorted Solutions:
+Solution    Fitness
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554
+tisupqixliptbvxzmaoxgtlthtdfhbesmiknbete    0.608291507268554

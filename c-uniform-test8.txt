@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 0.9, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 40, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7128597964804897    0.6681317521040552
+1    0.698863921958684    0.66277597551645
+2    0.6919603596021423    0.6574201989288447
+3    0.6843754123947973    0.6427214996174445
+4    0.6772994613618976    0.6324708492731446
+5    0.670625505738332    0.6291110941086459
+6    0.6628582172915073    0.6291110941086459
+7    0.6571184284621271    0.6291110941086459
+8    0.6509869671002295    0.6283459831675594
+9    0.6444562892119358    0.6229902065799542
+10    0.6358515394032135    0.6152153022188218
+11    0.6297818469778118    0.6137710788064269
+12    0.6264827865340474    0.6114757459831675
+13    0.6209228737566947    0.6107106350420811
+14    0.617152584544759    0.6061199693955625
+15    0.6165359112471308    0.6061199693955625
+16    0.6099717750573833    0.6046275439938791
+17    0.607436624330528    0.6045897475133895
+18    0.6056125447589901    0.5992717674062739
+19    0.6044575133894415    0.5992717674062739
+20    0.6023958714613619    0.5992717674062739
+21    0.600231271614384    0.5992717674062739
+22    0.5993402494261667    0.5992717674062739
+23    0.5992717674062739    0.5992717674062739
+24    0.5992717674062739    0.5992717674062739
+25    0.5992717674062739    0.5992717674062739
+26    0.5992717674062739    0.5992717674062739
+27    0.5992717674062739    0.5992717674062739
+28    0.5992717674062739    0.5992717674062739
+29    0.5992717674062739    0.5992717674062739
+30    0.5992717674062739    0.5992717674062739
+31    0.5992717674062739    0.5992717674062739
+32    0.5992717674062739    0.5992717674062739
+33    0.5992717674062739    0.5992717674062739
+34    0.5992717674062739    0.5992717674062739
+35    0.5992717674062739    0.5992717674062739
+36    0.5992717674062739    0.5992717674062739
+37    0.5992717674062739    0.5992717674062739
+38    0.5992717674062739    0.5992717674062739
+39    0.5992717674062739    0.5992717674062739
+40    0.5992717674062739    0.5992717674062739
+41    0.5992717674062739    0.5992717674062739
+42    0.5992717674062739    0.5992717674062739
+43    0.5992717674062739    0.5992717674062739
+44    0.5992717674062739    0.5992717674062739
+45    0.5992717674062739    0.5992717674062739
+46    0.5992717674062739    0.5992717674062739
+47    0.5992717674062739    0.5992717674062739
+48    0.5992717674062739    0.5992717674062739
+49    0.5992717674062739    0.5992717674062739
+50    0.5992717674062739    0.5992717674062739
+51    0.5992717674062739    0.5992717674062739
+52    0.5992717674062739    0.5992717674062739
+53    0.5992717674062739    0.5992717674062739
+54    0.5992717674062739    0.5992717674062739
+55    0.5992717674062739    0.5992717674062739
+56    0.5992717674062739    0.5992717674062739
+57    0.5992717674062739    0.5992717674062739
+58    0.5992717674062739    0.5992717674062739
+59    0.5992717674062739    0.5992717674062739
+60    0.5992717674062739    0.5992717674062739
+61    0.5992717674062739    0.5992717674062739
+62    0.5992717674062739    0.5992717674062739
+63    0.5992717674062739    0.5992717674062739
+64    0.5992717674062739    0.5992717674062739
+65    0.5992717674062739    0.5992717674062739
+66    0.5992717674062739    0.5992717674062739
+67    0.5992717674062739    0.5992717674062739
+68    0.5992717674062739    0.5992717674062739
+69    0.5992717674062739    0.5992717674062739
+70    0.5992717674062739    0.5992717674062739
+71    0.5992717674062739    0.5992717674062739
+72    0.5992717674062739    0.5992717674062739
+73    0.5992717674062739    0.5992717674062739
+74    0.5992717674062739    0.5992717674062739
+75    0.5992717674062739    0.5992717674062739
+76    0.5992717674062739    0.5992717674062739
+77    0.5992717674062739    0.5992717674062739
+78    0.5992717674062739    0.5992717674062739
+79    0.5992717674062739    0.5992717674062739
+80    0.5992717674062739    0.5992717674062739
+81    0.5992717674062739    0.5992717674062739
+82    0.5992717674062739    0.5992717674062739
+83    0.5992717674062739    0.5992717674062739
+84    0.5992717674062739    0.5992717674062739
+85    0.5992717674062739    0.5992717674062739
+86    0.5992717674062739    0.5992717674062739
+87    0.5992717674062739    0.5992717674062739
+88    0.5992717674062739    0.5992717674062739
+89    0.5992717674062739    0.5992717674062739
+90    0.5992717674062739    0.5992717674062739
+91    0.5992717674062739    0.5992717674062739
+92    0.5992717674062739    0.5992717674062739
+93    0.5992717674062739    0.5992717674062739
+94    0.5992717674062739    0.5992717674062739
+95    0.5992717674062739    0.5992717674062739
+96    0.5992717674062739    0.5992717674062739
+97    0.5992717674062739    0.5992717674062739
+98    0.5992717674062739    0.5992717674062739
+99    0.5992717674062739    0.5992717674062739
+
+Best Solution: lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw
+Decrypted Text: 
+awpanskyipvyfdkaadthpnhxbzyxhqddxozrbmyzaixaqynfjomsihqublsdtfgdrqlokjsacicxzayvghtaadaqrsxpxsgggofskuksmqnqormzuvnduvhgghzydomtdgltnrunogfnnapvrbgatbmiphlmwarynqaqyxmssxwyjswolngxykbsbrzmjzkmxwjdrxsqgcicjwrayqthgqjblxpkotrnkheminiesofmldybvzjblptriwlfrgkvvqpxpnsytlqqypodnmajnmnecmlsrjwhvfdwctwwvalzemuhunbielbpswxonpmojmbhixwutqwhwhtrpklqdcrshdeorwrokvgrgwgsioaolpylysipnihroslkszsxasbeawiswavbufnojrzouozbhihrnhbvjxlojwthaiqmwvdgriogobtfeknsfjrxdalxjzxyewvhqbmvxfzjpotujragamlvwayyqcpnganmerofnneovexpoalypfzlfsgwzildjhofhxmqvcebkuavxnnnpecyfdghytyowxrpqwckfdtcdeofcdcrrqhvdhxzscftgdjmnspgrnjrereavvuwonkhvyutfhzrenrelyiznopzduberkbgrjbrolcyuolcrzvtyhmcgksrflmnwaqtarhwfqwztrusjssmucjvxyzjjfqsqkphsstahliuphvvyfdeedyvtieagdjpuodqtmloaoujxozunlaqzohhrlcrmehicxnwummprnisqcnvxnmqvtugbrkphziscdfbyfmfsywdophbbnrknucovaajnlhwrcrdswwettcotjxsnuhvurumnnynwlzbsziwuxhgcwctihqhydinifsudhziladjyuvfxpirsdspdgpqjxitsnfvsmsqykrnctwpzuoscpsmjodrwkwlhkaecznzjspbbshdatazmlbgkvfnkhselqcunyqbtjebxjmcsewmrkrokqzschwwutuadashaohjwkuqoxshcnptktczictyeslgxsresowvgshhhzymutrfkzxntxggmhqsodexdaeocqnrxpoweryqtqfakxiaeanwvhtmvptyukkuepetztqmkbesfwlhvefnsuiqlctopanutftpdskktbsdcslgvryivwwskspkuiikwyevtukpxcfztwpitisbleygtcedsqoutzjbflqsefneavgvkalntwioairhzatsmaoejhuxosldixseulzskkrseqddpzhzegukbvhdsionvzieytsoqcvswohoougzuxeqlmvgsfdrodtohzrsrbcbhqilmhurmoeoyjrtosjnlvfontjwpvzbvtjbbshnflpyqqhluwqsybmytiqmbdqsscdrkiasetgduwhsrmpunwiibcajlpvyrcrmqpoaahhffgcznipmrhenpxlxykdnhzslnsbkhycqffchfeksykgwilzkxbvdlyljxgxajuufoojbtutfdwijdscdhkbpoqstfxxtvzrpnsbcrvcpkkilbqhxrrzgyhqaxfunxqaezmivdrtjegjwxzlkofcwgmxcroisergxodvnezmetrmlapuwwhabhgsjlgnclafyopebruisfrkkghnzawjjpyzkxiobxncnfwczodaranesvmlgxjxnjbcrheszlvrrrvnifezteimfdnxvvgaanpagqzrdjkuolytpeacmyvtullhxjzwqnhkveoykcytvhrdfujthgqznuaqnvvbepvshfajbuwevkqseabxwunuqhvgclwhsjcmzwmblzkevxljtshyomckbcwcqpytihirxjqvcdotfaivobwxnzqrropaedoulgsnttozapnvegdeacmclsebxvmyuhbtlkkkkkafkangsmksoovhvowsdbphnrnfissfirtwyhjmzlaqngfscvihstxtqelboxlmeamkixlmkrtlfvxoiccojudrauafbycnoeessrcdosdjleygseenfmvzharoulwloldthqchlaelinoplwfsoilpcaciqjqhlhvbmtsjzioyxvlmhbqzheddqygsblnjdzqoxusokrznlvkmiksceuzsunltfrsrqpkyvjcfnmpdxlkoxacyiezbdyakwfqikprcdniydrecvabwwkrjsmrngbcjxqxlnckylofxrbvanjogxgciievnaeisknewkwwxpigqqkknraiovcjhiftfkelyslqvikcfklmbntbwstjmyrcffevkprffhrxrstptkselwaotjatqfgqgdroekwpacpytllsorwhjeezcvjlywlfziweezdtkauppvibcqwkywdkrsvczehqeecjyppisyqxfocehhogsggkvmfzwqbtcjnhhbxcyrjwmskqvroomivqhpddribhebhqljolpstytghsehmolxveomndxlrdxatmbskayzenhtcfiajxpgfvlkenlpbscxktsqandforumtxqdjmrvnjhfjrriikascuvfigoputogjbdzxchnemdeksccatfvupdmeboxlvxpawlhjbjiqosrzsfhfirqjpdmryvosp
+Sorted Solutions:
+Solution    Fitness
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739
+lfeqebjv-adoufjnbgxpqtmiwbgvgaqiee-iburw    0.5992717674062739

@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.95, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7156575180722891    0.6117839357429719
+1    0.6912063319946452    0.6073424364123159
+2    0.674106174029451    0.6013183400267738
+3    0.6524977456492637    0.5780350736278447
+4    0.62724646854083    0.5715855421686747
+5    0.6016358420348059    0.5334329317269075
+6    0.5852144471218206    0.5153983935742972
+7    0.5626617563587684    0.5093365461847389
+8    0.5430712878179385    0.4974187416331995
+9    0.5243627068273092    0.480015796519411
+10    0.5107400026773762    0.47854672021419004
+11    0.49776314859437754    0.45139196787148583
+12    0.4870238982597055    0.42767657295850064
+13    0.472112203480589    0.42767657295850064
+14    0.4583820080321285    0.40840294511378855
+15    0.4454837804551539    0.3826390896921017
+16    0.4313553815261044    0.3819697456492638
+17    0.4120492797858099    0.3667121820615796
+18    0.3961278152610442    0.3495084337349397
+19    0.3783201472556894    0.3206717536813922
+20    0.3620641070950468    0.31517991967871484
+21    0.3478077242302543    0.2945673360107095
+22    0.3279170522088354    0.2890171352074966
+23    0.3110050682730924    0.27444926372155287
+24    0.29927268273092367    0.2693761713520749
+25    0.2919763775100402    0.2638843373493976
+26    0.2835666907630522    0.2630760374832664
+27    0.27517054350736275    0.263023828647925
+28    0.26936386345381524    0.2396433734939759
+29    0.2688099170013387    0.23630227576974558
+30    0.26110743239625167    0.23496358768406958
+31    0.2536896331994645    0.23457054886211506
+32    0.24452044444444443    0.23376224899598394
+33    0.2393074832663989    0.23376224899598394
+34    0.23930790093708165    0.23281847389558233
+35    0.24034138688085677    0.23071780455153945
+36    0.2379936626506024    0.20551271753681388
+37    0.23364616599732263    0.20551271753681388
+38    0.22490967871485942    0.18828621151271752
+39    0.21479144042838016    0.18828621151271752
+40    0.2122775609103079    0.1829692101740295
+41    0.20165130388219546    0.18270254350736279
+42    0.1935300722891566    0.1724859437751004
+43    0.19000837751004018    0.1699448460508701
+44    0.18294443373493977    0.1678005354752342
+45    0.18229353145917002    0.1678005354752342
+46    0.17463669344042834    0.1678005354752342
+47    0.17192732530120478    0.16716894243641234
+48    0.17081986880856756    0.16716894243641234
+49    0.16935249531459168    0.16716894243641234
+50    0.17009209638554215    0.16716894243641234
+51    0.17095519143239624    0.16716894243641234
+52    0.16958685140562252    0.16716894243641234
+53    0.17098805890227578    0.16716894243641234
+54    0.16923901740294514    0.16716894243641234
+55    0.17291209906291838    0.16716894243641234
+56    0.16900502543507365    0.16716894243641234
+57    0.17188548058902278    0.16716894243641234
+58    0.17172074966532802    0.16716894243641234
+59    0.1698529933065596    0.16716894243641234
+60    0.16924306291834004    0.16716894243641234
+61    0.16997926639892907    0.16716894243641234
+62    0.17150001874163323    0.16716894243641234
+63    0.17161424899598393    0.16716894243641234
+64    0.1700837697456493    0.16716894243641234
+65    0.16966059437751008    0.16716894243641234
+66    0.16962905220883534    0.16716894243641234
+67    0.17158473360107096    0.16716894243641234
+68    0.17129457028112452    0.16716894243641234
+69    0.1704050977242303    0.16716894243641234
+70    0.17150529317269078    0.16716894243641234
+71    0.1691310200803213    0.16716894243641234
+72    0.1705223855421687    0.16716894243641234
+73    0.17160914591700135    0.16716894243641234
+74    0.17185576974564928    0.16716894243641234
+75    0.16976856492637218    0.16716894243641234
+76    0.17330972690763055    0.16716894243641234
+77    0.17149635609103084    0.16716894243641234
+78    0.17013215796519415    0.16716894243641234
+79    0.1705708514056225    0.16631004016064255
+80    0.17068401338688088    0.16631004016064255
+81    0.17064059705488624    0.16631004016064255
+82    0.16965774832663993    0.16631004016064255
+83    0.17395399732262384    0.16631004016064255
+84    0.173613609103079    0.16631004016064255
+85    0.1710261793842035    0.16631004016064255
+86    0.17126964123159308    0.16631004016064255
+87    0.17129301472556896    0.16631004016064255
+88    0.17307541365461848    0.16631004016064255
+89    0.17242389825970553    0.16631004016064255
+90    0.17242228915662655    0.16631004016064255
+91    0.1700602356091031    0.16631004016064255
+92    0.16957244712182062    0.16631004016064255
+93    0.1710816840696118    0.16631004016064255
+94    0.170083983935743    0.16631004016064255
+95    0.169758749665328    0.16631004016064255
+96    0.17064134672021422    0.16631004016064255
+97    0.17137677643908972    0.16631004016064255
+98    0.17162815796519415    0.16631004016064255
+99    0.16918228647925038    0.16631004016064255
+
+Best Solution: xhisisasuierseuurexassmurd
+Decrypted Text: 
+posherlocrholmmsshwisavqayothewomanphaveaeldgmhekldhemmentionoerunlerafyotryrnwmeinhisefesshmeclapsecundlredominaaesthmwhodeofryrsaxitwasnoathatpefedtaniymopionakintvlovenorijenekxlenallemotivnsanlthalonezurtecularlywlreabporrwnttybisyoldprecizebutidmijablivalwncedmindoewasqtakwittrymootperfectyeasovingsndolmerringmachiuethabtheoorlnbasoeenbutashlovezhewguldruvellacedhimzelfivafadsepymiteonheneveyspokmoftzesopnerlassionsshvewibhagabeaxxasjeertheywlreaduiratletrcngofortheobzervezexcwllexnfondrawingtoeveitfroemencgotevesandacaionsjutfgrthonraenedreasouertoidmilsucrcntnusionsinaohiswwndwlickneajdfinelyakjustmdteeperkgenpwastointyoducmadiktramnincfactorwhpchmiohttzrowkxouxtuponalloismevtaljesuvnsgnitinasenzitivminslrumohtonacrackinvneofpisoonhiqbposerlensesdouldvotbwmoroxispurbingthhnastzongwmotsinijanaturesbchaspisafdyednhenewasbutouewomintozimaxxthwtwomanwaztheliteijenekxlenofdubiouzandqcestaonalfemamoryihadzeenlqttlwofhyfmeolatelymytarriigehsddrsztezusawayfrvmeacpothwrmyyqnckmpletehawpineasanvtherimeyentredinaeresbswhachrsmeularoundthlmanwpofijstfshdsdimselfmazteronhisgwnecnabhishmentwlresunficaentdiaboorballmyhttenbionohilobolieswholoaahedederyxormyzsoyietywithoiswhwlebghemsunskulremainldinocrlovginqminxakerstreltburqedaeongrcsohdbooksankalteznatangfbimwaektoweekietwemncouainoundwmbitiontoedroesinwssopnhezrugandthlfierkeenwrgyyzhioownkeennhturepewakstivfasaverdeeplfattrictevbytrystqdyofcrimlandokcupaedhsmimiensefacustiesindeptrayldijarypowerzofobaervstioxcnfkllowingobtthoaeclmesaxxclaaringuptoosemgstejiesgbicdhadbeenaiandovedakhopofesobytheoffpcialxoliuefrygtiietotimeioeardaomenaguoucckuntofhiskoingaofhassuwgonotoodessapnthekasegfthonreloffmurdeyofhiaclesrinqopobthesingusartrigedqoftryatginsonbroahersittrancowuleaandfinalsyoftpemiksioxqhiyhhehadacjomplqshevsodoficwtelyandsbccesafuldyfobnheneigningfhmilywfhodlannveykndthesespgnsonhissctifctydoweverwhpchimmrelqshabydwethalltheyeadezsoflhedkclylressiknedlittteofeyfobgerbriendandjompaviongnensahtetwasonthltwenbietzofmklchewasreturuingfzomabourxyytkapatientmorihidnooretelneztocivilpyactikewhwnmyguyladmethrounhbakmrstjeetkmipwssedthewlllreuembwredniorshichmusthlwayabeaksocsutezinmyminddithmgwooangaxxwiphthedarkpncidmntsgfthomtuzyinscarlltiwaaseiredwsnhageendesirltosemholeesaquinwndtoknowoowheeaseeploicngdisextraoydinazypooersrcsrkomswerebyilliintlqlitkhderenasilooredupqsawzistkflslarefigurlpassbwicwinanurkoilhouettlagaivsttzeblshdhawaspacinntherwomsoiftvseacerlywithoisheidsufkupyhhiochestandoishavdscdaspoxbedindhimtotewhosnewzisefyryioodandhaiithiaattatudoundiannertolktheizownktoribewwsatworkanainhmhadjisexiutkfhisdrugjreatmddrwamskhdwwshotuponahescmntoxsomohewlroblemirhngthmbeldandgussdownuptotoechauberohicrbadbormerlybleninxarteyowxbisiannerwasuotefnusineitcyldkmwasbuthlwasgtadilhinunosaemewithhhrdlyiworvspouynbqtwithakiudlyegeheoavengetkanarmchaprthrmwacjossrcscwseofcigaysandqndiuatenusperitcaseaudagaagenwintryconnerthenhlstoolbefgretryfineandlookldmeoderifhisccngqlarintrozpectqvefsshiyh
+Sorted Solutions:
+Solution    Fitness
+xhisisasuierseuurexassmurd    0.16631004016064255
+xhisisasuierseuurexassmurd    0.16631004016064255
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuursxaesmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhdsisasuierseuurexassmxri    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmurd    0.16716894243641234
+xhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmurd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhirisasuierseuurexassmxsd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmurd    0.16716894243641234
+xhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmurd    0.16716894243641234
+xhisisasuierseuurexassmxrd    0.16716894243641234
+urisisasuierseuuhexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmurd    0.16716894243641234
+xhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxdr    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+ehisisasuiurseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmurd    0.16716894243641234
+xhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16716894243641234
+uhisisasuierseuurexassmxrd    0.16764872824631866
+uhisisasuierseuurexassmxrd    0.16764872824631866
+uhisisasuierseuurexassmxrd    0.16764872824631866
+uhisisasuierseuurexassmxrd    0.16764872824631866
+uhisisasuierseuurexassmxrd    0.17185435073627847
+uhisisasuierseuurexassmxrd    0.17185435073627847
+uhisisasuierseuurexassmxrd    0.17185435073627847
+uhisisasuierseuurexassmxrd    0.17185435073627847
+uhisisasuierseuurexassmxrd    0.17185435073627847
+uhisisasuierseuurexassmxrd    0.1806016064257028
+uhisisasuierseuurexassmxrd    0.19069451137884874
+uhisisasuierseuurexassmxrd    0.1939973226238286
+uhisisasuierseuurexassmxrd    0.1959967871485944
+uhisisasuierseuurexassmxrd    0.20741552878179387
+uhisisasuierseuurexassmxrd    0.212013922356091

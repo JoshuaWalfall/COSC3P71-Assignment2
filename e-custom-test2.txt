@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.95, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7124807014725569    0.6225081659973227
+1    0.6917369665327979    0.6024278447121821
+2    0.6751418152610442    0.5802870147255689
+3    0.643005124497992    0.5549892904953146
+4    0.6098523587684069    0.535578313253012
+5    0.5800410281124497    0.5004562248995984
+6    0.5466772423025436    0.49212342704149936
+7    0.5178813333333333    0.45402757697456486
+8    0.49565606425702813    0.42853574297188757
+9    0.47445198661311916    0.41916492637215524
+10    0.45523031325301205    0.4004232931726907
+11    0.4365945729585007    0.3862800535475234
+12    0.4261921311914324    0.3862800535475234
+13    0.4112668969210174    0.37633253012048196
+14    0.39859322356091026    0.37633253012048196
+15    0.3914584926372155    0.3567844712182061
+16    0.38256427309236946    0.3467887550200804
+17    0.3710725247657296    0.3400506024096386
+18    0.3581181017402945    0.3207769745649264
+19    0.34813907362784474    0.30964872824631867
+20    0.3349264872824632    0.2935844712182062
+21    0.32243819009370817    0.29118875502008035
+22    0.308438358768407    0.27378580990629187
+23    0.2990244257028113    0.27378580990629187
+24    0.294880859437751    0.2644149933065596
+25    0.287064281124498    0.26277563587684066
+26    0.27856552074966534    0.2594479250334672
+27    0.2665478768406961    0.22596171352074967
+28    0.26301504149933064    0.22596171352074967
+29    0.25854499330655956    0.22596171352074967
+30    0.24881604551539493    0.21527121820615797
+31    0.235518578313253    0.21125515394912983
+32    0.2209496546184739    0.20350468540829986
+33    0.21730933065595714    0.19840026773761707
+34    0.21570822489959837    0.19117483266398927
+35    0.21344627844712183    0.18864176706827307
+36    0.20751853815261043    0.18864176706827307
+37    0.20205345113788487    0.18051030789825967
+38    0.19380946184738956    0.1664607764390897
+39    0.1919418232931727    0.1664607764390897
+40    0.17976036412315932    0.1664607764390897
+41    0.1717481419009371    0.1664607764390897
+42    0.16987452476572962    0.1664607764390897
+43    0.17001378848728246    0.1664607764390897
+44    0.17052404551539493    0.1664607764390897
+45    0.16924533065595718    0.1664607764390897
+46    0.1689818607764391    0.1664607764390897
+47    0.17091869879518076    0.1664607764390897
+48    0.16914043641231594    0.1664607764390897
+49    0.16841291298527444    0.1664607764390897
+50    0.1723643560910308    0.1664607764390897
+51    0.1702087389558233    0.1664607764390897
+52    0.1712510388219545    0.1664607764390897
+53    0.1723207228915663    0.1664607764390897
+54    0.16994233734939762    0.1664607764390897
+55    0.17067601338688088    0.16445274431057566
+56    0.1735812610441767    0.16445274431057566
+57    0.17014600000000002    0.14956599732262385
+58    0.1712334243641232    0.14956599732262385
+59    0.16931645247657298    0.14956599732262385
+60    0.16269931726907633    0.14956599732262385
+61    0.157679218206158    0.14956599732262385
+62    0.15338502543507365    0.13709611780455153
+63    0.15311017670682733    0.13709611780455153
+64    0.1510474136546185    0.13709611780455153
+65    0.14938597590361447    0.13709611780455153
+66    0.1472829344042838    0.13708246318607764
+67    0.14371091030789826    0.13314190093708164
+68    0.14099337617135208    0.12756813922356094
+69    0.13972076840696118    0.12756813922356094
+70    0.13600363319946454    0.12756813922356094
+71    0.1316209290495315    0.12756813922356094
+72    0.13155819277108438    0.12756813922356094
+73    0.13013166800535478    0.12756813922356094
+74    0.13000043373493977    0.12756813922356094
+75    0.12864749665327982    0.12756813922356094
+76    0.1303558152610442    0.12756813922356094
+77    0.13084233734939762    0.12756813922356094
+78    0.13055073627844715    0.126590093708166
+79    0.129191234270415    0.11508621151271756
+80    0.12658059437751007    0.11508621151271756
+81    0.12401991967871488    0.11508621151271756
+82    0.11910742704149936    0.11508621151271756
+83    0.11997629183400269    0.11508621151271756
+84    0.12151853012048194    0.11508621151271756
+85    0.11894968942436414    0.11508621151271756
+86    0.1172918982597055    0.11508621151271756
+87    0.11898352074966535    0.11508621151271756
+88    0.11998702543507365    0.11508621151271756
+89    0.1198567309236948    0.11508621151271756
+90    0.11795432128514058    0.11508621151271756
+91    0.11924483534136548    0.11508621151271756
+92    0.11824783935742973    0.11508621151271756
+93    0.11771732530120485    0.11508621151271756
+94    0.11969065595716201    0.11508621151271756
+95    0.11670815528781796    0.11508621151271756
+96    0.11700281392235612    0.11508621151271756
+97    0.1179292074966533    0.11508621151271756
+98    0.1201801793842035    0.11508621151271756
+99    0.1170555903614458    0.10259839357429719
+
+Best Solution: thisisasuperztcurepasswort
+Decrypted Text: 
+tosherlockhoexessheisalwaisthewomanihaopseldomheardrimmentionhernyderanyotherxameinhiseyeslseeclipsesannpredominatesmsewholeofhercexitwasnotthtehefeltanyemytionakintoloopforireneadlorallemotionstydthatonepardicularlyweretmhorrenttohiccoldprecisebneadmirablybavancedmindhewtditakeitthemystperfectrealzningandobsebvingmachinetalttheworldhacseenbutasalooprhewouldhavoplacedhimselytnafalseposidionheneversphveofthesoftebpassionssaveptthagibeandacneertheyweretomirablethinqsfortheobseroprexcellentfyrdrawingthevxtlfrommensmodivesandactiogdbutforthetrkinedreasonermzadmitsuchindrusionsintohbdowndelicatekndfinelyadjuleedtemperamextwastointrodnneadistractixgfactorwhichftghtthrowadoebtuponallhisfpntalresultsqritinasensitbgeinstrumentyracrackinonehqhisownhighpywerlenseswoueonotbemoredicturbingthanalerongemotionsnanaturesuchtdhisandyetthorewasbutonewhxantohimandtratwomanwasthxwateireneadlorofdubiousanwbuestionablewemoryihadseegwittleofholmoslatelymymarktagehaddriftodusawayfrometnhothermyownmompletehappigpssandthehomocentredinterxdtswhichriseeparoundthemaghhofirstfindchimselfmastekzfhisownestallishmentwerelffficienttoalsorballmyattxytionwhilehovmeswholoathewpveryformofsycietywithhispsolebohemiancoulremainedigzurlodgingsixbakerstreetbnciedamonghisyldbooksandalmprnatingfromgeektoweekbetppencocaineannambitionthedkzwsinessofthodrugandthefixcceenergyofhssownkeennatukphewasstillaceverdeeplyatmcactedbythesdudyofcrimeanwzccupiedhisiwmensefacultixdandextraordsnarypowersofhmservationinpollowingouttazsecluesandcvearingupthosxxysterieswhimhhadbeenabanwznedashopelecsbytheofficitwpolicefromtsmetotimeiheakosomevagueacmountofhisdoigrsofhissummoxstoodessaintapcaseofthetropoffmurderofatsclearingupyfthesingularmcagedyoftheadkinsonbrothekdattrincomaloeandfinallyoyehemissionwhschhehadaccomiwishedsodelimatelyandsuccxdsfullyforthoreigningfamiejofhollandbeiondthesesignlzfhisactivitihoweverwhichbxerelysharedgithallthereawprsofthedailipressiknewlimeleofmyformebfriendandcomilniononenighditwasonthetwxytiethofmarcriwasreturninzqromajourneydoapatientforbsadnowreturnodtocivilpracmtcewhenmywayvedmethroughbtverstreetasizassedthewellkpmembereddoobwhichmustalwtjsbeassociatodinmymindwitaxywooingandwsththedarkincboentsofthestedyinscarletiplsseizedwithkkeendesiretolpeholmesagaixandtoknowhowapwasemployinqhisextraordiglrypowershisboomswerebriletantlylitandovenasilookednaisawhistallcparefigurepaldtwiceinadarusilhouetteagttnsttheblindrewaspacingthxcoomswiftlyekgerlywithhisapadsunkuponhsschestandhisalndsclaspedbohindhimtomewazknewhiseverimoodandhabitatsattitudeannmannertoldthxtrownstoryhegasatworkagaigsehadrisenoudofhisdrugcreteeddreamsandgashotuponthelnentofsomenegproblemirangmsebellandwaschownuptothecalmberwhichhanformerlybeenbypartmyownhicmannerwasnotxqfusiveitselnomwasbuthewalrladithinktoceemewithhardejawordspokenlutwithakindlrpyehewavedmedoanarmchairtacewacrosshismaseofcigarsagoindicatedasziritcaseandazlsgeneinthecyrnerthenhesthzdbeforethefsreandlookedmxzverinhissinqularintrospeveivefashion
+Sorted Solutions:
+Solution    Fitness
+thisisasuperztcurepasswort    0.10259839357429719
+thisisasueerztcurppasswort    0.10259839357429719
+rhisisasuperztcutepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepaszwort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisesasuperztcuripasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisesuperztcurapasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thusisasuperztcirepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasupesztcurepasrwort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisipasuperztcuresasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisieasuperztcurspasswort    0.11508621151271756
+tpisisasuherztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperstcurepasswort    0.11508621151271756
+thisisasuperztcurepasswort    0.13249236947791165
+thisisasurerztcupepasswort    0.14155930388219545
+thisisasuperztcurepasswort    0.1456117804551539
+thisisasuperztcurepasswort    0.14859678714859442
+thisisasuperztcurepasswort    0.1492607764390897
+thisisasuperztcurepasswort    0.15224337349397588
+thisisasuperstcurepasswort    0.15775261044176708

@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.9, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7113994859437751    0.6231775100401606
+1    0.6933974752342703    0.6042768406961178
+2    0.6664919892904954    0.5636907630522088
+3    0.6338848406961178    0.5636907630522088
+4    0.6078261526104418    0.5108503346720216
+5    0.5799788995983935    0.49264096385542155
+6    0.5502160348058902    0.45486934404283796
+7    0.52111246854083    0.4434904953145916
+8    0.49188714591700133    0.4232728246318608
+9    0.4618637001338688    0.4020436412315931
+10    0.4425282061579652    0.3730720214190094
+11    0.42629687817938416    0.3730720214190094
+12    0.40746439625167336    0.3402741633199464
+13    0.3902033145917001    0.30777697456492636
+14    0.3691495073627845    0.304522891566265
+15    0.34291630254350736    0.301615796519411
+16    0.3276246265060241    0.29529103078982594
+17    0.31123680053547526    0.29529103078982594
+18    0.30773802141900936    0.29529103078982594
+19    0.3042888112449799    0.2823419009370816
+20    0.3018601579651941    0.27296171352074966
+21    0.2973485435073628    0.27186398929049527
+22    0.2906665890227577    0.2569469879518072
+23    0.28560964658634536    0.24260267737617136
+24    0.2740379437751004    0.24260267737617136
+25    0.2652302784471218    0.24260267737617136
+26    0.25723340829986613    0.24260267737617136
+27    0.24763824631860779    0.24260267737617136
+28    0.24649655957161984    0.24260267737617136
+29    0.24593271753681392    0.24260267737617136
+30    0.24447281927710843    0.24260267737617136
+31    0.2443819625167336    0.24260267737617136
+32    0.2468969906291834    0.22477858099062917
+33    0.24478160374832666    0.22477858099062917
+34    0.2448490013386881    0.22477858099062917
+35    0.24245590361445782    0.22477858099062917
+36    0.23474414190093706    0.22477858099062917
+37    0.230020500669344    0.22477858099062917
+38    0.22967134136546183    0.22477858099062917
+39    0.22828861311914322    0.22477858099062917
+40    0.22780461311914324    0.22477858099062917
+41    0.22693987416331993    0.21162302543507366
+42    0.227630390896921    0.20737563587684074
+43    0.22968217938420346    0.20737563587684074
+44    0.22717859437751003    0.20737563587684074
+45    0.21990224899598396    0.20737563587684074
+46    0.21364302811244984    0.20737563587684074
+47    0.2102210709504686    0.20737563587684074
+48    0.21200491566265064    0.20737563587684074
+49    0.21246414457831328    0.20737563587684074
+50    0.21163961178045518    0.20723828647925027
+51    0.20965644176706832    0.20723828647925027
+52    0.2100735555555556    0.20723828647925027
+53    0.2113861311914324    0.19331004016064263
+54    0.21076687282463183    0.19331004016064263
+55    0.20562334136546184    0.19331004016064263
+56    0.20178942168674702    0.19331004016064263
+57    0.19699204819277114    0.19331004016064263
+58    0.19567289959839365    0.19240187416331994
+59    0.19581046854083003    0.18113333333333337
+60    0.19586328246318613    0.18113333333333337
+61    0.19559187951807233    0.18113333333333337
+62    0.19126582061579656    0.17313038821954485
+63    0.18757176171352077    0.16240722891566264
+64    0.18253131191432398    0.16240722891566264
+65    0.18031965194109772    0.15239009370816595
+66    0.17187040696117806    0.15239009370816595
+67    0.16782388219544844    0.15239009370816595
+68    0.16221432128514052    0.15239009370816595
+69    0.1585601178045515    0.15239009370816595
+70    0.15707025435073624    0.15239009370816595
+71    0.15636146987951802    0.15239009370816595
+72    0.15665750468540826    0.15239009370816595
+73    0.1553281552878179    0.15239009370816595
+74    0.15907272021419006    0.15239009370816595
+75    0.1552339678714859    0.15239009370816595
+76    0.15620637483266395    0.15239009370816595
+77    0.15612189022757694    0.15239009370816595
+78    0.15495570548862111    0.15239009370816595
+79    0.15594663453815255    0.15239009370816595
+80    0.15495863186077638    0.15239009370816595
+81    0.15514044979919675    0.15239009370816595
+82    0.15557111378848723    0.15239009370816595
+83    0.15517307362784466    0.15239009370816595
+84    0.1546093413654618    0.15239009370816595
+85    0.15729744846050864    0.15239009370816595
+86    0.15385143775100396    0.15239009370816595
+87    0.15678293708165994    0.15239009370816595
+88    0.15642898527443103    0.15239009370816595
+89    0.15738762516733595    0.1458631860776439
+90    0.15607155020080316    0.13703400267737614
+91    0.1555790522088353    0.13703400267737614
+92    0.15196216867469875    0.13703400267737614
+93    0.14506361713520746    0.13703400267737614
+94    0.14045738152610437    0.13703400267737614
+95    0.14061561178045515    0.13703400267737614
+96    0.14004704685408298    0.13703400267737614
+97    0.14134733333333332    0.13703400267737614
+98    0.1422453895582329    0.13703400267737614
+99    0.14062103346720212    0.13703400267737614
+
+Best Solution: ghisssasueersegudepasssord
+Decrypted Text: 
+goshurlocvholmasgheisapwayfthemomanthaveoezdomheerdhvmmedtionserunzefanyotlernnmeidhisejesshaeqlipsewandcredeminaeesthawvoleoflersrxitmasnoethatdeteltancemogionqkintzlovebofireneedleeallumotiznsanztvatonetartvculqrlywpreabdofrenttshispoldfrecidebutwdairablcbalnncetmindsewasetokeittlemoftpehfectceasojibgandofseriingcachiyethaptveworlhhasfeenrutasllovenhswouldlaveclacudhimdelfijatalsepssitvonhunevecspokaotthesojtercassyonsslvewiphogibeardasaeerjheywpreadiifabletlingfforjheobdervenelcellertfoedramingtseveihffommenwmotvvesqndaceionsxuhforthitravnedheasoyertowdaitsuclinteusiensineohiskwbdeliceteaadfidelyaojustadhemperemengwasjointcoducaaristragtintfacjorwhtchmichhthrowedouotupenallsismejtolresuptsgeitidasenditivaibstrumintoeacrqckinzneofdigownhikhpojerlunseshouldjohbemoridisgurbyngthlnastnobgemotmoniaanajuresfchasdigandyextheeewaibutoyewomwnhohimardthntwocanwadthelwtsireneedleeofdkbioudandqqegtionaflemrmoroihaddeenlethleofhslmeflatulymyxarriwgshaddrmftequsamayfrzmeacdohhermyswncbmplutehaapineosondthelomepenthedineerespskhichrmseucarokndthpmanwdotirstfmndsuimsulfmadterobhwsownewtabyishcentwpresubfwcientxoabforbqllmylttenpicnwhiliholzeswxoloaehederefyformsfsopietowithsiswhklsbohemmansbulrumainpdinoqrzodginksinoakehstreptbureeramonglisoydboeksanoaltennotingfvomwrekteweekmetweanqocainiandnmbijiontsedrosswnessojtheqrugqndthpfieryesnergysfhifownaeennlturedekasstiplasrverteepljattrwchedbytlesthdyovcrimpandoycipiedhmsimzensufacuwtieswnrextrasrdiaaryfowerdofoboefvatiorinfbllomingoftthooeqluesardclraridguptsosemusheriesahicuhadreenamandojerashopilesfbytxeofftciallozicefrsmtizetojimeiseardooaevaguiaccbuntefhisooingoothissuqmonftootessatntheyageofthitrecoffcurdecofhioczearinkupostheiinguwartrwgsdyoftleatxinsenbroeherswthrincoqalerandvinalwyoftdeaissiorwhiphhexadacnomplesvedsodilicnteloandsfccesofillyfovtheeeigdingflmilykfvollanhbeybndtxesestgnsobhwsactizityuowelerwhtchimarslyshavedwvthabltheceadenscfthedeilycresiiknehlitthecfmyfovmersrieddandnompajicnonenmghtvtwaionthptwenpisthofmerchvwasheturyingfnoaajourreytbapajientqorihwdbowretyrneqtocyvilpcactiyekhenmyaaylrdmejhrourhbakargtreetesipnssetthewpllreieaberedhoorjhicxmustllwayobsassocmateqinmomindhithmuwcoingardwighthudarktncidanhsofthistuqyinicarlptiwaossizedwmthaxeentesirptoseahclmesakainnndteknowsowhesagemplocinguisentraocdinanydowerslisrbomsmerebcilliwnhlylitendeienaiiloovedupesowhistellscarevigurppasspwwceinaharkfilheuettpagaijshtheblmndhrwasfacinrtherkoaswiftpyeaterlowithsishewdgunkupsnhifcheitandsishajdgclaspidbeuindximtoxewhognswhisezeryzoodqndhamithioahtitudiandzannurtolotheinoknstorchewnsatmorkarainhahodriseroutbfhiidrugnreatadrreamsendwnshojuponehescanhofsominewcrobbemirlngthabsllandaassuownkptotsechaibsrwhiclhadsormurlybpeninlaftmyowrhiszannurwasyotefbugiveitweldbmwaibuthpwasgharithinotosrememithhlrdlywwcrdspooenbhtwijhakiydlyeuevewavehmetbanahmchatrthrawocrossliscnseovcigacsandenricatehaspvritsaseaydagaogsneintlecoenerjhenhpstoozbsforetlefieeantlookpdmeorefinhiswinghlaryntrodpectevsfashisn
+Sorted Solutions:
+Solution    Fitness
+ghisssasueersegudepasssord    0.13703400267737614
+ehisssasueersegudgpasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghiessasueerssgudepasssord    0.13703400267737614
+ghisssarueessegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghidssasueersegudepasssors    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghusssasieersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+gsisshasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghdsssasueerseguiepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasuegrseeudepasssord    0.13703400267737614
+ghisesasueerssgudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.13703400267737614
+ghisssasueersegudepasssord    0.16501552878179382
+ghisssasueersegudepasssord    0.17327791164658635
+ghisssasueersegudepasssord    0.1771622489959839
+ghisssasueersegudepasssord    0.17816572958500668
+ghisssasueersegudepasssord    0.18111432396251675
+ghisssasueersegudepasssord    0.18261204819277105
+ghisssasueersegudepasssord    0.1907815261044177
+ghisssasueersegudepasssord    0.20684578313253016

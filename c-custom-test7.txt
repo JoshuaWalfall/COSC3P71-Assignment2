@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 0.9, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 40, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7120239984697782    0.6595539403213466
+1    0.6940672762050497    0.6511377199693956
+2    0.6831183442999235    0.6465470543228768
+3    0.6734604100994644    0.6121548584544759
+4    0.6653589533282326    0.6121548584544759
+5    0.6523249074215761    0.6121548584544759
+6    0.6501218653404743    0.6121548584544759
+7    0.6382242616679419    0.6121548584544759
+8    0.6278679311400154    0.6113519510328999
+9    0.6168302953328233    0.6075263963274676
+10    0.6123505937260902    0.6075263963274676
+11    0.6113072807957154    0.6075263963274676
+12    0.6100213221117062    0.6059961744452945
+13    0.607994247895945    0.6006403978576895
+14    0.6067387100229534    0.6006403978576895
+15    0.6054549395562357    0.6006403978576895
+16    0.6039432517214997    0.6006403978576895
+17    0.6019168416220353    0.6006403978576895
+18    0.6006403978576895    0.6006403978576895
+19    0.6006403978576895    0.6006403978576895
+20    0.6006403978576895    0.6006403978576895
+21    0.6006403978576895    0.6006403978576895
+22    0.6006403978576895    0.6006403978576895
+23    0.6006403978576895    0.6006403978576895
+24    0.6006403978576895    0.6006403978576895
+25    0.6006403978576895    0.6006403978576895
+26    0.6006403978576895    0.6006403978576895
+27    0.6006403978576895    0.6006403978576895
+28    0.6006403978576895    0.6006403978576895
+29    0.6006403978576895    0.6006403978576895
+30    0.6006403978576895    0.6006403978576895
+31    0.6006403978576895    0.6006403978576895
+32    0.6006403978576895    0.6006403978576895
+33    0.6006403978576895    0.6006403978576895
+34    0.6006403978576895    0.6006403978576895
+35    0.6006403978576895    0.6006403978576895
+36    0.6006403978576895    0.6006403978576895
+37    0.6006403978576895    0.6006403978576895
+38    0.6006403978576895    0.6006403978576895
+39    0.6006403978576895    0.6006403978576895
+40    0.6006403978576895    0.6006403978576895
+41    0.6006403978576895    0.6006403978576895
+42    0.6006403978576895    0.6006403978576895
+43    0.6006403978576895    0.6006403978576895
+44    0.6006403978576895    0.6006403978576895
+45    0.6006403978576895    0.6006403978576895
+46    0.6006403978576895    0.6006403978576895
+47    0.6006403978576895    0.6006403978576895
+48    0.6006403978576895    0.6006403978576895
+49    0.6006403978576895    0.6006403978576895
+50    0.6006403978576895    0.6006403978576895
+51    0.6006403978576895    0.6006403978576895
+52    0.6006403978576895    0.6006403978576895
+53    0.6006403978576895    0.6006403978576895
+54    0.6006403978576895    0.6006403978576895
+55    0.6006403978576895    0.6006403978576895
+56    0.6006403978576895    0.6006403978576895
+57    0.6006403978576895    0.6006403978576895
+58    0.6006403978576895    0.6006403978576895
+59    0.6006403978576895    0.6006403978576895
+60    0.6006403978576895    0.6006403978576895
+61    0.6006403978576895    0.6006403978576895
+62    0.6006403978576895    0.6006403978576895
+63    0.6006403978576895    0.6006403978576895
+64    0.6006403978576895    0.6006403978576895
+65    0.6006403978576895    0.6006403978576895
+66    0.6006403978576895    0.6006403978576895
+67    0.6006403978576895    0.6006403978576895
+68    0.6006403978576895    0.6006403978576895
+69    0.6006403978576895    0.6006403978576895
+70    0.6006403978576895    0.6006403978576895
+71    0.6006403978576895    0.6006403978576895
+72    0.6006403978576895    0.6006403978576895
+73    0.6006403978576895    0.6006403978576895
+74    0.6006403978576895    0.6006403978576895
+75    0.6006403978576895    0.6006403978576895
+76    0.6006403978576895    0.6006403978576895
+77    0.6006403978576895    0.6006403978576895
+78    0.6006403978576895    0.6006403978576895
+79    0.6006403978576895    0.6006403978576895
+80    0.6006403978576895    0.6006403978576895
+81    0.6006403978576895    0.6006403978576895
+82    0.6006403978576895    0.6006403978576895
+83    0.6006403978576895    0.6006403978576895
+84    0.6006403978576895    0.6006403978576895
+85    0.6006403978576895    0.6006403978576895
+86    0.6006403978576895    0.6006403978576895
+87    0.6006403978576895    0.6006403978576895
+88    0.6006403978576895    0.6006403978576895
+89    0.6006403978576895    0.6006403978576895
+90    0.6006403978576895    0.6006403978576895
+91    0.6006403978576895    0.6006403978576895
+92    0.6006403978576895    0.6006403978576895
+93    0.6006403978576895    0.6006403978576895
+94    0.6006403978576895    0.6006403978576895
+95    0.6006403978576895    0.6006403978576895
+96    0.6006403978576895    0.6006403978576895
+97    0.6006403978576895    0.6006403978576895
+98    0.6006403978576895    0.6006403978576895
+99    0.6006403978576895    0.6006403978576895
+
+Best Solution: fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr
+Decrypted Text: 
+gmlwvpwzmyrfnocmyyahxmebuahsgnynegpprrepwefxczrofvudatopilacqjzealklftzssgscfquroefbemwxzdpbvnngoncwdvtnlniavjcxkattqrpdsidhzvuevsjourcmlkyowvosmlnsjzcnvxhiexdzrzwxgieeqsdyrrtseopsxhwcijpkzeqctsradywzcjqnbipvfqbgduccusohjdyfafurodeaalrnpmuidkbnjkarqvijkhtqunkhwfiwjqwgulwaznesjtvpuyjnyjegsjwxlovtqksrukkmadxeminqwftvvaeahhihqwtymrfcveobwcbothxidzmldxvxgcocyienpoinitrmhnhmisojeqbpypotipnfefezelnnsauorqwsnpiwgfcbuzrtzcrefsbemjuvsclrjumbvbbebogtoequykspzxndkmrdyyywbovqxzlghmhgilizpbhtpzkxnsdkuwuvjjmlhfbykhtjhrxgmsovwmeescncchtilaugqkwrfkzotnyfnoytwofoewotjxlfeaomkwedsiihnmpspibiojneyphhusxforcsnmdxqfboelamboqpnelsiwnltjalljwzltyiklkbqgwbvdswktrsnvdqkiqlcracxxkidaysxvaxolvwobbkzqirasfrfvlknomzyvhtqnaapkfyiieqxcyolvotjnkqczrmgphzpttzsaseeohtkptrijgemvjjccxninjscjyqvwezynfhvitqdsrkustkgwdcjvvzoksvoueaaqlkxuzvfgajcaiikpaxaxqangdwjrstzztovrtwyaqtvyqzuggbayfanyqbbtxdpzgfoiodebarpidrhhluqgtaepqqphlqmbonehplilvaycomghdogcswhfgeakzmrnavplfgghvojrdxzxvrxopamueiisjrchdirhadiuvvwtpyotltnhchyusizhdpozvzksoisobalzpltpqevhpavpifssvjgpkwudxhaztrpepzzoeudwaiquxjpdyxaxnsznccuectsmaellwaalurfolaxshlsnakrpyyuftmrdbjhqxhqrsfwbcogtylhfxtorkeqomfisyvrspkxxzvxopwldcwrwzdkrikoshdutrcrkfiknoasumsfvoytjnklindaiaaiirhcxdanavmjxzglbmomczfeeccsldzrrpoiholsbcnlxjoqzkvexrtetabgmdbgrzdwcbywzpybknlkqgansvflxyjejokyzhtaxdvwfylsslqtlsklgmmnaoyorhqhgirdmqiyiyaivmzqvpovsrmizypwoitkfgtlrzghidjnibzuzdschiewwtybhnqueznrzybraqquymtqsppdntdjdqttoyespdxogknzknxvroxvesetylizeqotghegvvzfuzlvryoazllecxrmwaqopmmehhhjczmhftupsvvqucelscccpscygpbtqsinaxlwneujgtadkjblniczuztdlrganchyjpeomwqtbckjrenvtqgvdrelgrvudelxabtbweuhmyxkhctwahoiiilbcexykbwegxfahbekdimssvweukrnqqprsotcovksihewyhjumhcgibkagjrebqwgdaodjxhbsturmudfzzztuovkwwdebudlacdtsdlrcixzqepmgzobwsjsybobevnhqsrgvopzxmvtxgrmlklghpcpcvrseahopwrnbziuswownifvfprqsmswrwnwifhmzslovobiaatsxlwrwidpiuadbfpaekpqlgikhucntaiphobcrexclophalmrbddvmzoaqenzvcwyeloaohzmrofpydxxwjdicrcbcuqpyfmotgrslxwyinsujpshwqqntnnihxlhslyoonfduahdqukdmoinfabsmatcssnzvignjcjgcgefiylvchmdiguaxvjccoenbowxziylwiqhhjeozriqzkbalvqehxchrwtiaepuyselmodqcbntelhecepmuljinachlolpuyqmtsuhlthcdcfrvfxazlnkhwkhurorcmsbswjodgmeflffcjwkxiztbpbzpdrttucrnxzkkkxtjlbtdhddwwnfsauvvoalnkazjcmnlkgsnurrrrrjvghkxiulhsfsioquvtnjsmonxceonaucquamhpogfffvtszpygoapthwewsoklrbanvwxwnsqdhhgyluhakoldkjhcdxsbbmswqvobozijerkakadiatpcezqlpniwbhtkaslizbzxuhzwcothzlzkugprxuayfrolrtrafaflrqyoratudlvjetxgeppbivkhkofnixpvmsjnxkcadslzvbgebtfaeuhpaugrssrlpfacjemcnbgdlladjfqaipbdvmgwsbxqkatncllghcwekdidbnzfxfnfbghgkwzfojfqzgbihoqkhzxshrqscqjomikpgsaqtbiiphhyvviejcsadhhvcjmldylufqpwdvchitjpywybzrskbxxywdkcjzlvpbtnugmhdryvjuxoyhdxtddyqroaqkzejrm
+Sorted Solutions:
+Solution    Fitness
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895
+fpiuwe-xuwusn-xyvpiciqlnlsifmlbtnuxqlwbr    0.6006403978576895

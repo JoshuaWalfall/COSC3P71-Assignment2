@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7144732449799197    0.6586002677376173
+1    0.6959221686746987    0.6570176706827309
+2    0.6873588647925034    0.6292864792503348
+3    0.6741127148594377    0.6212096385542168
+4    0.659714704149933    0.6081491298527443
+5    0.6357627041499331    0.5630591700133869
+6    0.6065905033467203    0.5241148594377512
+7    0.5854880829986613    0.509677376171352
+8    0.5611954457831325    0.49135475234270415
+9    0.5358818821954485    0.47511539491298516
+10    0.516438655957162    0.44943641231593034
+11    0.4976140642570281    0.4403095046854083
+12    0.4758720615796519    0.42915261044176695
+13    0.4543854109772423    0.417499330655957
+14    0.43662840696117805    0.41701954484605086
+15    0.42841654886211517    0.39741900937081664
+16    0.4224143427041499    0.38957643908969214
+17    0.4150508888888889    0.37605247657295854
+18    0.4066941472556894    0.3680203480589022
+19    0.3916589745649264    0.36614939759036136
+20    0.3781789022757697    0.36614939759036136
+21    0.3695326586345381    0.36614939759036136
+22    0.3673268862115126    0.36614939759036136
+23    0.3666545542168674    0.36614939759036136
+24    0.36616810709504677    0.36614939759036136
+25    0.36614939759036136    0.36614939759036136
+26    0.36614939759036136    0.36614939759036136
+27    0.36614939759036136    0.36614939759036136
+28    0.36614939759036136    0.36614939759036136
+29    0.36614939759036136    0.36614939759036136
+30    0.36614939759036136    0.36614939759036136
+31    0.36614939759036136    0.36614939759036136
+32    0.36614939759036136    0.36614939759036136
+33    0.36614939759036136    0.36614939759036136
+34    0.36614939759036136    0.36614939759036136
+35    0.36614939759036136    0.36614939759036136
+36    0.36614939759036136    0.36614939759036136
+37    0.36614939759036136    0.36614939759036136
+38    0.36614939759036136    0.36614939759036136
+39    0.36614939759036136    0.36614939759036136
+40    0.36614939759036136    0.36614939759036136
+41    0.36614939759036136    0.36614939759036136
+42    0.36614939759036136    0.36614939759036136
+43    0.36614939759036136    0.36614939759036136
+44    0.36614939759036136    0.36614939759036136
+45    0.36614939759036136    0.36614939759036136
+46    0.36614939759036136    0.36614939759036136
+47    0.36614939759036136    0.36614939759036136
+48    0.36614939759036136    0.36614939759036136
+49    0.36614939759036136    0.36614939759036136
+50    0.36614939759036136    0.36614939759036136
+51    0.36614939759036136    0.36614939759036136
+52    0.36614939759036136    0.36614939759036136
+53    0.36614939759036136    0.36614939759036136
+54    0.36614939759036136    0.36614939759036136
+55    0.36614939759036136    0.36614939759036136
+56    0.36614939759036136    0.36614939759036136
+57    0.36614939759036136    0.36614939759036136
+58    0.36614939759036136    0.36614939759036136
+59    0.36614939759036136    0.36614939759036136
+60    0.36614939759036136    0.36614939759036136
+61    0.36614939759036136    0.36614939759036136
+62    0.36614939759036136    0.36614939759036136
+63    0.36614939759036136    0.36614939759036136
+64    0.36614939759036136    0.36614939759036136
+65    0.36614939759036136    0.36614939759036136
+66    0.36614939759036136    0.36614939759036136
+67    0.36614939759036136    0.36614939759036136
+68    0.36614939759036136    0.36614939759036136
+69    0.36614939759036136    0.36614939759036136
+70    0.36614939759036136    0.36614939759036136
+71    0.36614939759036136    0.36614939759036136
+72    0.36614939759036136    0.36614939759036136
+73    0.36614939759036136    0.36614939759036136
+74    0.36614939759036136    0.36614939759036136
+75    0.36614939759036136    0.36614939759036136
+76    0.36614939759036136    0.36614939759036136
+77    0.36614939759036136    0.36614939759036136
+78    0.36614939759036136    0.36614939759036136
+79    0.36614939759036136    0.36614939759036136
+80    0.36614939759036136    0.36614939759036136
+81    0.36614939759036136    0.36614939759036136
+82    0.36614939759036136    0.36614939759036136
+83    0.36614939759036136    0.36614939759036136
+84    0.36614939759036136    0.36614939759036136
+85    0.36614939759036136    0.36614939759036136
+86    0.36614939759036136    0.36614939759036136
+87    0.36614939759036136    0.36614939759036136
+88    0.36614939759036136    0.36614939759036136
+89    0.36614939759036136    0.36614939759036136
+90    0.36614939759036136    0.36614939759036136
+91    0.36614939759036136    0.36614939759036136
+92    0.36614939759036136    0.36614939759036136
+93    0.36614939759036136    0.36614939759036136
+94    0.36614939759036136    0.36614939759036136
+95    0.36614939759036136    0.36614939759036136
+96    0.36614939759036136    0.36614939759036136
+97    0.36614939759036136    0.36614939759036136
+98    0.36614939759036136    0.36614939759036136
+99    0.36614939759036136    0.36614939759036136
+
+Best Solution: aheljfjszpedregfrupqtslond
+Decrypted Text: 
+mowodecoxkhcmmahsresrawweyltllvbdaiihoweotlnowgelrhhbmqlmgzoihefvnztrknintsevntmipmuzszyegthatcvizredardiriknzznvteguhalhylonfsevsxxmavnjnjttvbtdtfoldznjeqomisuzxznoolcwebdrsromeldpekapsdzftdongbnzihktymeaavtbcyszecyrersbbddrbexstzhmsvopkoevcdsepvtwsmsrkaljbeltnglczznyhekbseiauesstseqolttlqsvcoreotojxnqaxcomsiroirnlnthdnehiapihowyqlohesleiuahkanalcwenwegoekdsazeilejdqyihsezgijpfklcdpzsmtborodavvzrsdpkadfdhoroqtiriawzhbesnavsxipwaqildaydesgeiysuvyrersbdixrkbvdtsirglfsysuvowsefwentxmevkeytjokdvhvvegohejfihurymwdndmstbvizzauaxticosxjtpobshptvabnikqrrsjnefuowsmstctcsirtkuwpnajiitovjsklnnevhcltiagdjpmrcyvdjittastomzdrlminmwezsbznororvcapdssdqantmnzfejsbiwcicvnicwtdhbnwldsuutywnarlghignejiavroruwtwgkixpmnjeisihjvaxnctbtmpnxokagyzpbiionspfdxsywxgirhtopevsdajenwoimdjdtlewnrpdmsmuvihaxtcanottndnqewnttorigarhshienucvbsdxsknnxeetlekeahroltjnekpmwctyhslaydxhttavlnewvstvflwiesromeldpekojktozopsabeqqtsdiymamlimxmsyxvyaysesoleitveyehzlqelleadypmtmafsiwverancrtfxewuwhvnpfmomsbcddtreblyzwrchmtsdgvhvppwoeohaxddgesoqeveraqruiiteffsphwrimgrtsiuiavvtautcemoowddfsrcsftnhsaiqzdywmvstssobwicogmedtebeiwolretrerstubuimiomteoeblovizycmtathfnpxoxwrhlphslfewdgbcovthseertrifyqmzfwoviiaxjztchigxhkaelordmtarshupydzriiedwooqglydqhnrsmnuaolqfkrzetpvretdkmymgsiwoedfvnxjaidazuencadixffcoqwxeoanjvefbehxeaccyckhnpardtmfpsvfnohersoshixecroqtlewrynzautcefwfrytexebfyzfliloaujrvniatisedtwkscsiwlesxviycrvpgyahurwrtodlxtsewtndcvepiiheabeoyruziochtsmmferzdsrcpltwfswcdoxdqazrhigavfobnemsotpbotrfadhoyirfhlpvvvegjuthiootcvuoraydglxavpmtlpohogfmuhtorsdshhmcahekarvnvbabeojtdksrnpplislbcagrffaicwblldlscoerzmxifexvsvdedheosdodmovkfupagchuransyindowogodfricruxmsnltsvcrjsvinhieypsoopshptveiojmlhidzrotiiorloabhnrutoytllrvegplafurwvenyyetseetdirznasrjthssswitbixboxapexarkeveaglycgtdtmsschoywlivhllgnuaxcoaqlehhodcndplmcttisxnednucqfsouuvlieoctlekemnmvegaamwmykuhylvznobiyhnhagrjenigbtobwicamsigixyaoaluriwcicvjmagevycgacehwbtlhkykhzreoeenhoptrddlipyirizrvbnzwlwuthtopmieocmiryrmlmqrnycoaqajxoxoxdntgltbtahrbetcetkfnpxedhyemlrghbwezqrkumnibhfndmkjytryecthathsvvnofofjhwsnywbdtfrrewtsjhizlkraquiytwrexlyhaclxdqlsuiopghpbkagsdrodtlsmptswlcgyerelzseitmlebddoosrphmjgzlsoalkbyoqekscnctaxewirtxzznywihimuloyixfaydaimhxodqrrfinqjdactcopshpsxuwymurprrgetwxaoheszocwttladeiucrjimetcteawovmoraramntnhanxeorhokiespsomzkojirgaiwlwgiajrdwoannpywoqssiwrhoqzvriewrizmiwctvyvhtlnheoerhrvcojkervpehaghsrtllpsiavlevxumepotsplimesmaoavkliponhvtoeaubijhtdhoaltnhhxwezontiigtvfrkdmcwsetwyiazevsxjztchigiewssenutpznlilcllrgrnyhigiajssmlkrppdfeairkgvdtjmekiogceghsregevyfoskzauhvbihiioptdidtdpardfarudekogdtvfindwxsdnrjhiwtseavbikvgawohawanrsreyoythflprqiubcrsbtasdbeklslnhwtslvshgoithstcactyfcnmpniwirsikrdimanuuhaqevlkmdhawsaoautckooheqiaiqebwrhcshedyovtdecyweebjnlprdminwyhmsfarudenannohffbjssvohtdepdhmahroltcewotghpdstrhnvtssxeqlvvkhcarrmywlobdcooverbntapsurkdndzzeuthowkueomitharhqzthvirhiralamryrssiwctsivepzgvrsoodecdsckseoawpbrmabnjevndohaovexesmtsegokniysuvnceshpozqepobdtsejikeeucyfofedafortrsnrhsdirgnleyhakrjspsdtekepacgizn
+Sorted Solutions:
+Solution    Fitness
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136
+aheljfjszpedregfrupqtslond    0.36614939759036136

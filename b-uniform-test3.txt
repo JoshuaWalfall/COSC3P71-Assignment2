@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7107369129852745    0.5608760374832664
+1    0.6946665408299866    0.5608760374832664
+2    0.6616728540829986    0.5608760374832664
+3    0.628585234270415    0.53214672021419
+4    0.5942432690763052    0.5288926372155287
+5    0.5671668808567604    0.500247389558233
+6    0.5498028460508702    0.49514323962516743
+7    0.5360900776439089    0.48716358768406953
+8    0.5184435341365462    0.4836589022757699
+9    0.5059497724230254    0.45799410977242294
+10    0.49439069076305225    0.4419298527443106
+11    0.4816466265060241    0.43523641231593035
+12    0.46727936278447124    0.4106077643908969
+13    0.44762770816599734    0.40859973226238283
+14    0.4344720240963856    0.39989825970548865
+15    0.4235419571619813    0.3985070950468541
+16    0.4132967951807229    0.3984224899598394
+17    0.4079850736278447    0.3845033467202142
+18    0.4036162275769745    0.38263266398929047
+19    0.3976400535475234    0.38263266398929047
+20    0.39393778313253014    0.38263266398929047
+21    0.39156991967871485    0.3779472556894244
+22    0.38567103882195447    0.3758867469879518
+23    0.3841373092369478    0.3758867469879518
+24    0.38228542704149937    0.3758867469879518
+25    0.3814036760374833    0.3745480589022757
+26    0.3786394002677376    0.3712013386880856
+27    0.3771196867469879    0.3712013386880856
+28    0.3756630093708166    0.3712013386880856
+29    0.37456316198125833    0.36723775100401607
+30    0.3728750066934403    0.3329116465863453
+31    0.36939313520749656    0.3329116465863453
+32    0.3599331619812583    0.3329116465863453
+33    0.3483512637215529    0.33157295850066937
+34    0.34430414190093706    0.31537135207496647
+35    0.33737284337349394    0.31537135207496647
+36    0.3321201070950468    0.29542838018741646
+37    0.3235121633199464    0.2824816599732263
+38    0.31519281659973225    0.27272315930388225
+39    0.3027527443105757    0.27272315930388225
+40    0.2938292931726908    0.25593708165997325
+41    0.2847734457831326    0.25593708165997325
+42    0.27293789825970555    0.25593708165997325
+43    0.2661876921017403    0.25593708165997325
+44    0.2632804444444445    0.25593708165997325
+45    0.25846821954484606    0.25593708165997325
+46    0.25917742971887553    0.25593708165997325
+47    0.25828489959839357    0.25593708165997325
+48    0.2577461526104418    0.25593708165997325
+49    0.2591200722891567    0.25593708165997325
+50    0.25895412851405625    0.25593708165997325
+51    0.26151211512717537    0.25593708165997325
+52    0.2588325167336011    0.25593708165997325
+53    0.2574422597054886    0.25593708165997325
+54    0.25929368674698794    0.25593708165997325
+55    0.2602608406961178    0.25593708165997325
+56    0.25751804283801877    0.25593708165997325
+57    0.2596296947791165    0.25593708165997325
+58    0.25848446586345386    0.25593708165997325
+59    0.2591275475234271    0.25593708165997325
+60    0.25949921285140565    0.24502838018741627
+61    0.25697245783132533    0.24502838018741627
+62    0.2586569236947791    0.23525167336010713
+63    0.25338023025435075    0.23525167336010713
+64    0.2487312048192771    0.232310843373494
+65    0.2423569825970549    0.232310843373494
+66    0.24043239625167337    0.232310843373494
+67    0.23578461847389562    0.232310843373494
+68    0.23768789825970552    0.232310843373494
+69    0.23437678179384208    0.232310843373494
+70    0.23478436680053552    0.232310843373494
+71    0.23646316198125839    0.232310843373494
+72    0.2364544953145917    0.232310843373494
+73    0.2332909076305221    0.23169397590361446
+74    0.2353505247657296    0.2222706827309237
+75    0.23436229718875506    0.2222706827309237
+76    0.23186088353413656    0.2222706827309237
+77    0.2300495876840696    0.2222706827309237
+78    0.2263278447121821    0.2222706827309237
+79    0.22763999464524765    0.2222706827309237
+80    0.22486766532797858    0.2222706827309237
+81    0.22503548058902276    0.2222706827309237
+82    0.22630433734939762    0.2222706827309237
+83    0.22434773761713522    0.2222706827309237
+84    0.225489796519411    0.2222706827309237
+85    0.2242044497991968    0.2222706827309237
+86    0.2271589799196787    0.2222706827309237
+87    0.2258735073627845    0.2222706827309237
+88    0.22606790093708168    0.2222706827309237
+89    0.22456853012048192    0.2222706827309237
+90    0.227025983935743    0.2222706827309237
+91    0.22492455689424365    0.2222706827309237
+92    0.22345730388219548    0.2222706827309237
+93    0.2271028032128514    0.2222706827309237
+94    0.22453349665327982    0.2222706827309237
+95    0.22897956626506027    0.2222706827309237
+96    0.22755611512717536    0.2222706827309237
+97    0.2250318232931727    0.2222706827309237
+98    0.225621906291834    0.2222706827309237
+99    0.22418792235609103    0.2222706827309237
+
+Best Solution: thvrtmpouperfepurtpattword
+Decrypted Text: 
+tofitxwsckhoymrssseirzlwaystufluxenihaiefeloomgdardhimzfcztsnherhnqerlnynshernamrjcntweyesfhrecwiprdsandprredstratesghrwhzlenehersexvulgdrotthntuefpltzmyemotibopqtrtoloiesortremdadleraymtszxionsnnqthltomdpartichmpxwcwerenbuorcenssohiscoyeexpgisebhtndmtraakybalanpfsstrdhewnsvtaveisshemostcfglpgtreafoainrancnbserviahbgnlinetuagthpwoqkdhasseroqaeesaloieehehoukchaveplndtjsmmselsiaafllsdoositioaittpzerspbkrofehernfterpaftxuywsavejigharibdzndasnersinpcwerendzirlbldshingsfbsinpsbserieeexnelkdntfordebloykthevriyfrzmmdmsmotivrtptoectioasoutqorsgetrainregklwonergondmttstbhintrufjdtdmntohvsbwnoelhbateandsjckwcadjuftrdtpmpdqamentwntiutrtrodhcradtstqzctingfndiucahichzithtehrnvadoubthqdtlplhiszeatawrertltsgrigjcgdinsitvvrindtrtlentorapspivmnonebfuiszwnghghpoweemttdiswouydaotmemnqedistuecxtrxhanafteonremnsioninaabiacisuchnsuislndxdttherejbhhfxonewbmnntzhilzndthatjpbgyaasthrlntetremdadlerosejhtsusanqqheseiomzblemembsnosedseealvttweoegolmeslnutrjqymareingesadcqiftedufblgjjromencuotserlxowncomcmtzplappiaefsaydtgdhomeceaugkomnterrsgswsicgqiseupaepjtoxhemaawuoftrsseindshizttrqqasteeoshidowmdstablifibkyxwerefusfiniemstoabsoecprwqyattrngioywhhkeholmefxwuwsatheqeierjfoqlofsocirunctxhhisjhblemohdliansouystslmnediaohrlzdghmgsinbaxfgyeveetbhrvedlmomfhisoldopdqdendalgeenaeinferomweexudcpikbetjernczcahmeandamojiozrthedeojsiyesrnfthedrhhptoxhefirrpeeyerfxofhisojozkprnatueeuewlssshllasevrsskptlyatgrnctpdbxshestudlpuicmmeanqopcuaiecgisimmeattllgultirsnndpxtqzordinaezeuhirsofbbfergathnninfolyploykouttuofecwuerzndcleaejcmftthosrmlstpridrwhichhneqkprabanqoaedlshnoelessbluwkzjficinlcoltceeqomtimegpioxiiheaedfompvafteaccouaudlsmsdoiagfofsisrtmmonstbpskdwaintuepaspofsgetreposgbacherofuifclparhmgupoftufhoykulargrngeoyoesheatkiatdtmvotheesnttcinbnmaleeaaeuoyellyostuemtsshnnwhichufwgoeccomclvshpdsncelicatrmngyhsuccrsffuwlyenrtherevhcoykfamiyybfhzllzmdbeyonquwkdisignfoshidacshvityhojfkkcahichvmrrewysgzredwitubarelereaqeesoqthdcailyprrthovrewligtyeoqmyenrmerfrvfcjlrdcomcaaioyondmightitjbhuyxhetwrngieehoelarchiwntgkeyrnintfeomljotqneytoacbioprtforvhndnzwrdsurnedtbdxbtppracgipewsenlxwayledzfincsughbnkrrseredsasipasffszsiwelleezemmerdcdoorwhvdwsfwtalwnyfbelssnbiatediannstrdwitumlwozinfzndwithgitjlvkincvdrntdofsgestudyvohilvletijafsetzecvithakeroskdmretoferhowmerzgainanqudqyswhowuejaspmpknyinghiffmzceordiaaeypzweqrhisrooztlkcibrilyinntwylhsandeveabhowsokedhpvsahhirsallspaefuoryrepafsgwineimzdarksiyidapxteagniasteheakindhewntegnmngthrrbomdwieslyeageemnctxhhisuendsfnktoonhiscufhzlrdhisuaadsnlaroedbehiaewoxxomewuoxnehhirdverymobeptolabituifateittceandmaaotxesldthrieowystnqyhewasnulucoagaiahrhaorirdnoutofujhjcygcrentrddcealrandwasupiaasnthefcrntzfsnlenewprbcakxmrangghrbewlamcwasshojojvesthecuazbecwhhbhhadfoentxwcbeenvncaremynvnhismaaotxhesnotrfsustvehsseldomjbhhfxhewafgyadtthhmktoseezfloelhardyynwocdsonkenbutjjinloindllelehpwauddmetoaabgsnlairturrwanrorrhiscasrpuitkarsaadvndtcasddaspirvurgdiandatafgeyeimshecornrsinprhestboqbeqordshefirenosrzskedmroiertnhhrsingulnsxtevospeptvveqasghon
+Sorted Solutions:
+Solution    Fitness
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperftpurtpateword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmppuperfeourtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpoupdrfepurtpattwore    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouprrfepurtpattwoed    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrampouperfepurtptttword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvotmpruperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrempouperftpurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.2222706827309237
+thvrtmpouperfepurtpattword    0.26288085676037487
+thvrtmpouperfepurtpattword    0.2638318607764391
+thvrtmpouperfepurtpattword    0.26549638554216864
+thvrtmpouperfepurtpattword    0.28859759036144583

@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.95, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 40, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7096867911247131    0.6658364192807956
+1    0.6948204085692425    0.6511377199693957
+2    0.6869408186687069    0.6482010711553176
+3    0.6757530451415455    0.6320099464422342
+4    0.6632803779648049    0.6320099464422342
+5    0.6545417750573833    0.6320099464422342
+6    0.6480881315990819    0.6197681713848506
+7    0.6432867283856158    0.6197681713848506
+8    0.6378724254016833    0.6197681713848506
+9    0.6374569808722265    0.6190030604437643
+10    0.6359172609028308    0.6130059678653403
+11    0.6263199234889059    0.6060339709257843
+12    0.6188278041315991    0.6060339709257843
+13    0.6151815975516449    0.5946433052792655
+14    0.6114636786534047    0.5869921958684008
+15    0.6060760076511095    0.5869921958684008
+16    0.6001507589900535    0.5816742157612854
+17    0.5937984514154553    0.5761946442234124
+18    0.5887063351185922    0.5761946442234124
+19    0.5838487360367253    0.5723312930374905
+20    0.5802469594491201    0.5656068859984698
+21    0.5774682631981637    0.5656068859984698
+22    0.574402896710023    0.5579179801071156
+23    0.5710322096403978    0.5564255547054323
+24    0.5664883397092578    0.5541302218821729
+25    0.5613862478959449    0.553203519510329
+26    0.5582897781178271    0.551069778117827
+27    0.5564949701606733    0.5487744452945676
+28    0.5541477674062739    0.5487744452945676
+29    0.5520855531752104    0.5457140015302219
+30    0.5509910221882173    0.5457140015302219
+31    0.5496142417750574    0.5434186687069625
+32    0.5482651843917368    0.5417646518745218
+33    0.5458093879112471    0.5403582249426165
+34    0.5439751201224178    0.5403582249426165
+35    0.543640052027544    0.5402344299923487
+36    0.5425777000765111    0.5387042081101759
+37    0.5415307008416219    0.5379390971690895
+38    0.541041700076511    0.5379390971690895
+39    0.53975428462127    0.5379390971690895
+40    0.5391496924254017    0.5379390971690895
+41    0.53818441469013    0.5379390971690895
+42    0.5391804009181331    0.5379390971690895
+43    0.5386001545524101    0.5340757459831675
+44    0.538819013006886    0.5333484315225707
+45    0.5384635562356541    0.5333484315225707
+46    0.5371425478194338    0.5333484315225707
+47    0.5350182892119357    0.5288815608263199
+48    0.5336903978576893    0.5288815608263199
+49    0.5330818653404744    0.5288815608263199
+50    0.5320625493496557    0.5265862280030604
+51    0.5307353833205815    0.5265862280030604
+52    0.5294242065799541    0.5235257842387147
+53    0.5278684514154552    0.5197002295332823
+54    0.5258858194338178    0.5197002295332823
+55    0.5247823718439174    0.5197002295332823
+56    0.5217159296097934    0.5174048967100231
+57    0.5209203687834737    0.5174048967100231
+58    0.5194994460596787    0.5174048967100231
+59    0.5182615608263199    0.5163355776587606
+60    0.5183394231063505    0.5163355776587606
+61    0.5178637199693957    0.5140402448355011
+62    0.517716442234124    0.5140402448355011
+63    0.5169860948737568    0.5140402448355011
+64    0.5158841285386382    0.5140402448355011
+65    0.5155031843917368    0.5124722264728385
+66    0.5144492762050497    0.5124722264728385
+67    0.5146711277735272    0.5124722264728385
+68    0.5143292364192807    0.5124722264728385
+69    0.5137441009946442    0.5124722264728385
+70    0.5130433221117062    0.5124722264728385
+71    0.5133534613618974    0.5124722264728385
+72    0.5132110971690895    0.5124722264728385
+73    0.513064194338179    0.5072968630451415
+74    0.5132143565416986    0.5072968630451415
+75    0.5127573771996939    0.506351338944147
+76    0.5113996725325172    0.506351338944147
+77    0.5094696174445295    0.506351338944147
+78    0.507557559296098    0.506351338944147
+79    0.5071473925019129    0.506351338944147
+80    0.5069239632746749    0.506351338944147
+81    0.5077689196633512    0.506351338944147
+82    0.5070265248661057    0.506351338944147
+83    0.5068602983932671    0.506351338944147
+84    0.5071867651109412    0.506351338944147
+85    0.5065520719204285    0.5062275439938791
+86    0.5072147039020658    0.5062275439938791
+87    0.5075396511094109    0.5046973221117063
+88    0.5070227176740628    0.5046973221117063
+89    0.5065716082631982    0.5035951032899771
+90    0.5058001667941852    0.5024019892884468
+91    0.5056134123947973    0.4979729150726856
+92    0.5044431537872992    0.4979729150726856
+93    0.5027654766641164    0.4979729150726856
+94    0.5006933787299159    0.4978491201224178
+95    0.49929495179801076    0.4978491201224178
+96    0.4993148982402449    0.4962811017597551
+97    0.49886836113236427    0.4962811017597551
+98    0.49823626625860756    0.49491247130833976
+99    0.49873209334353485    0.49491247130833976
+
+Best Solution: eottibitaeejceitixjatpvjttvcmvaqoihiaktc
+Decrypted Text: 
+hnaxjslaiofjiipiydzxpkukjmybvllrnotdsyqcakiirsfpxensteoyiecpimmatdqcgswspumlkvjjgujcsfgrwxghblndrdeoslkptnasgendxjraybsflogijhjjqdnhadfgofxtprucgmpgiadomeiuarhrjfvrvfrayqhfaawrewsdflonmgfeoavbnegwaizrqiusowpencikmicoyggadiamsiaghxmeihhzlwttwudjjlaobepsqixinjobagyjrogtqksoiztebwzllzywyyhadxatvvotvhghmrqumzkwwrkuereasognlvxetiwxusneuttclvdkbjhosannowrbkhestntntqahlkrytuewtidghptgkpbelapxoewwnbbuasjcyporntmohulmpluwswntuxczqkvnyuizqbnvdhtpisvfsojulalwipgbheqxbnahepsbicgfbgiotoaptsalirpykekxtjrrjgzplkcjjbvfqlfsgasahuthazvchaifwsrotvwstrniwsvjrtygsvnobbsdrseobfinzlhgtvjntcddefocnhptaluhqniclbdpznlozlflhgtkgzuaheatwtwyxsarasjnkljkeiperpqtofkzdjoovlvlfyemmhoazxxbsxodwsimmophblfygyqpxgfsbvevhewtnwtifanhhevoesqlkneaibgngqwmcsfxdfzkfciefsrgtpxxcoguizhhlhzrnofcjoytqmnrrmsdthsdvnsgvqhtjektvuqgsdznpreisahlpjzlpdskyrasctkvcsnttpwrofawgfmceeignhxxmtansshfaegydohscohdjtpvaurlbrmkmldtiogsrtazlrxtkbtksckvfxuxyirzhmwbpjpycbhgyirqwctaiidtawduptirolnznotrotaqraewjehawrnwpvdrzthhrivhahhriynafkiwroamhdtbkjukdcqespbxwiwuzquwodtuzqysaqfwcogkdpmtscxngfeizdhookeeabqjuamnsetaljpuenzxayljizynezjoiaozftpnrcflgiauchdsgeclsptluwivrgrokvqfkwxfayhobebclrqmdscvaibnhnhtutqdzoorrqajowlvvianmwildhkphznnjwpqzbksspoxioslpmgtghwaaqotspseitliprbqhfzndoyyllqwtkgbwsvfepopnlridkopeqnfkremflbzfwjkqhtdmscosnoaslkcwpvrhuolmgvndcazakyyoztqqqwutbfvkfizdgktitjxjcetnfluhtoosrcorncjfjzmipqktlkqomsemthuhiqaiwmfgqiklfgmazysobeqsistkcitnojpyihkydhettervolxhmtindscxnhiibslcmacqmljvejznwryvwhouhmsnloewjxgrnddjcsklsyieavsgsrxxoizckuxfvsidrpfcftfxsfjecaxobmmkqtvfwheyewxlshsrspcsxipplplhrtsptidxhfvyksoncjvoornlztimgrhqshkcvbueasgpmrloqlpwbsfywvdeibthwzxpxsgsdaedngcrdiyvatrkyrumakpntlxckkdxhghzehuuhlfdcrxxkbazdbztysogjhznxdgcdrukezomfmopxsxioikloxtwahhafdtokssakisksvzlekkaaqwraskmrovuhaxcronimxnsfaezydatcdanoaiaoysddzemrigfdlzoljddahuokrvtoepceewwtwthpaipxshknhtyxrnhvwprhpfstraksmzbatqwtnizdnjknaqlpardasmtjaoeqztpiorbfahimyalbjtnchbsjheysyobbldgacgbihrhauioiwydtaoamhndtoahvbzjirsktpcvlsmzqpfgclnmlbnwbvhdufyixawydexolbturwrnfgurshoqrnziipdgugaowemuelmzfxmnbfobzaytitscvaeqfdabuyvwplisjsjpzinmsapdswlmzcauoldeqnirsfisigdgpzyzejegstdtyzsxnhglnhjqgtwointnsbxymtmtpsshqdpvwxfztxlsbwdnamgefqfyusxollwtdcvuzqnxbyeunhkgohcisowiacfyrwtzqworjtofsfzhnmydomjrdhhebfecpraieylmeyixsfdwxkdladcrjcajpvphrtlzflouxbnnxtsutksytqcavlrrepsucwarpzasbyjibtnooytwqapiawnwrlkqslvziprhehilsmhysetnsewsnirqfuofkajiossomexipakzvgbsfdakaymwffaikgsfslesmdflrcwlstgoqexatsuxbqxlnrzzbexdndosnexhuhbxwzceyqrueazkgtjabqntpysgtueseiahlutcxitugkpjnfxrrxdppitsecatcuojtyrjdwqqgfsokpeusklhiysgrlsitevadzwnnbqgjesmosreowulmtunzqirhnvilcsnrvjeijftatcsiuvbhsncjzderzghrnnuadpsamlqb
+Sorted Solutions:
+Solution    Fitness
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.49491247130833976
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.49491247130833976
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.49491247130833976
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.49491247130833976
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eottititaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eoatibitieejceitaxjatpvjttvcmvaeoihiaktc    0.4962811017597551
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4962811017597551
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4962811017597551
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4962811017597551
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4962811017597551
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4962811017597551
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4962811017597551
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.49631889824024483
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.49631889824024483
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.49631889824024483
+eoatibitaeejceitixjatpvjttvcmvaqeihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4978491201224178
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eottibicaeejteitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4978491201224178
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4978491201224178
+eottibetaeejceitixjatpvjttvcmvaioihiaktc    0.4978491201224178
+eovtibitaeejceitixjatpvjttacmvaqoihiaktc    0.4978491201224178
+oottititaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eottititaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceipixjattvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitieejceatixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottititaeejceitixjatpvjttvcmvaeoihiaktc    0.4979729150726856
+eoatibitaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4979729150726856
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4979729150726856
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.4987002295332823
+eottititaeejceitixjabpvjttvcmvaqoihiaktc    0.4995031369548584
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.503290895179801
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.5039700076511093
+eottibitaeejaeitixjatpvjttvcmvaeoihicktc    0.5039700076511094
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.505928232593726
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.5062653404743687
+eoatibitaeejceitixjatpvjttvcmvaqoihiaktc    0.508684468247896
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.5104811017597553
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.5150717674062739
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.5173671002295334
+eottibitaeejceitixjatpvjttvcmvaqoihiaktc    0.5211066564651874

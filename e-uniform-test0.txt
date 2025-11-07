@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 0.95, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7098725676037483    0.6145986613119142
+1    0.6890730040160642    0.6019876840696117
+2    0.669600329317269    0.6010366800535475
+3    0.648315780455154    0.5800431057563588
+4    0.6194492744310576    0.552508969210174
+5    0.5950014190093708    0.5046511378848729
+6    0.5608041820615797    0.48056278447121803
+7    0.5313167844712182    0.43083935742971896
+8    0.501001344042838    0.4282088353413653
+9    0.47407280856760375    0.41806934404283813
+10    0.4537615903614458    0.40296358768406965
+11    0.4336722516733601    0.38985836680053554
+12    0.4204974109772423    0.3575925033467202
+13    0.4085211914323963    0.3575925033467202
+14    0.3923307014725569    0.3436733601070952
+15    0.3747601793842035    0.3436733601070952
+16    0.36399531191432394    0.33885087014725573
+17    0.3563748969210174    0.32044444444444453
+18    0.3464152289156627    0.3070481927710844
+19    0.3398460963855422    0.3070481927710844
+20    0.3294308139223561    0.2996717536813922
+21    0.32056983668005357    0.2996717536813922
+22    0.3132359330655958    0.2996717536813922
+23    0.30914106291834004    0.29031459170013385
+24    0.30547481124497994    0.2809437751004016
+25    0.2977338875502008    0.2809437751004016
+26    0.2950938982597055    0.2809437751004016
+27    0.2897808460508701    0.2809437751004016
+28    0.28597966800535474    0.28083721552878177
+29    0.28468727175368136    0.28083721552878177
+30    0.28442138420348057    0.28083721552878177
+31    0.2850331084337349    0.2791349397590361
+32    0.28538018206157967    0.2791349397590361
+33    0.28202372155287814    0.2629333333333333
+34    0.28321093708165995    0.2601804551539491
+35    0.2816724551539491    0.2601804551539491
+36    0.2747234002677376    0.2349440428380187
+37    0.26534421954484605    0.2349440428380187
+38    0.25711786077643906    0.2349440428380187
+39    0.24266210174029446    0.2349440428380187
+40    0.24155119410977238    0.2349440428380187
+41    0.24239264524765727    0.2349440428380187
+42    0.2395312583668005    0.2349440428380187
+43    0.23913583132530117    0.2349440428380187
+44    0.23687876305220879    0.2349440428380187
+45    0.23881589825970548    0.2349440428380187
+46    0.23839192503346715    0.2349440428380187
+47    0.23656748594377508    0.2349440428380187
+48    0.23975983132530118    0.2349440428380187
+49    0.23891995448460507    0.2349440428380187
+50    0.2402265381526104    0.2349440428380187
+51    0.24080244979919677    0.2349440428380187
+52    0.23802300401606424    0.2349440428380187
+53    0.23839906291833998    0.2349440428380187
+54    0.23807351004016059    0.2349440428380187
+55    0.23951242302543502    0.2349440428380187
+56    0.23723302543507357    0.2349440428380187
+57    0.2374200348058902    0.23484390896921015
+58    0.23844334939759032    0.22571539491298528
+59    0.23831124765729583    0.22571539491298528
+60    0.2362699303882195    0.22571539491298528
+61    0.23290460508701472    0.22571539491298528
+62    0.2292513012048193    0.22365488621151267
+63    0.23206699330655958    0.2183164658634537
+64    0.2274467282463186    0.2183164658634537
+65    0.2254265676037483    0.2183164658634537
+66    0.22429017938420345    0.2183164658634537
+67    0.22538618473895575    0.2183164658634537
+68    0.22453106559571612    0.2183164658634537
+69    0.22367057831325293    0.2183164658634537
+70    0.22066412583667996    0.21365006693440428
+71    0.22170878179384193    0.19288139223560907
+72    0.21772437215528773    0.19288139223560907
+73    0.2154565274431057    0.19288139223560907
+74    0.2013704444444444    0.19288139223560907
+75    0.19731288888888887    0.19288139223560907
+76    0.19652627844712178    0.19288139223560907
+77    0.19739969477911642    0.19288139223560907
+78    0.19609681927710843    0.19288139223560907
+79    0.1959786613119143    0.19288139223560907
+80    0.19530371084337347    0.19288139223560907
+81    0.1940224738955823    0.19288139223560907
+82    0.1953693145917001    0.19288139223560907
+83    0.19645783132530117    0.19288139223560907
+84    0.19612213922356087    0.19288139223560907
+85    0.1951909986613119    0.19288139223560907
+86    0.19655531459170011    0.19288139223560907
+87    0.19808879518072284    0.19288139223560907
+88    0.1942337001338688    0.19288139223560907
+89    0.19619716198125833    0.19288139223560907
+90    0.1968120080321285    0.19288139223560907
+91    0.19823753681392234    0.19288139223560907
+92    0.19528182597054883    0.19288139223560907
+93    0.19722870147255686    0.19288139223560907
+94    0.1970091860776439    0.19288139223560907
+95    0.19612020883534131    0.19288139223560907
+96    0.2003375876840696    0.19288139223560907
+97    0.1957873226238286    0.19288139223560907
+98    0.1957240803212851    0.1901279785809906
+99    0.197494109772423    0.18639571619812584
+
+Best Solution: tnesemksjpevsecuretnssword
+Decrypted Text: 
+tiwhixbonkhklmesshavsalwaysnleaucayihwveseldkzheardhigqerzyoyhenunderajlothernagiirnyspyeosheeclecsesandplidssynlteothewhohrofhersermtaginzttdathefehganyemotcsneqyneolkveforinrneadleruplisettonoandthapbnepartiwylexbyheraabhorraattohiscipdtxuctsexutadminnblybalahgehsynohesasitakavtthemosntevlucerewsoningwadobservcrgqgshtnephatthesbrldhassyinfajadalkverhewkhldhavepfecijxixsehfinafahfepositiirhituvprslokeoftdrsofterpuwsmudsdavawithageoeandasnyirxnuyheraadmiraxyethingszsrxnuomsenverexcaylentforxvaaodgehereilfroizensmotipisettantiknsbutfkethetraihidvkqsznentoadmipfuchintrowistiiytodisowndayicateanxjirkbyldjqstedteiceramentqesxuynerozuceadiogractingzecxuhwsicdmighttdeowadoubnypstqlwhiomentalnrsultsgrcxirgieysipiveinspeumentorugreiaiyonaofhisosahighpowyvlitiedwoqldnotbazoredistovbmtwtsanwstrongazotioninuraxaheducdashisajqyettheryaawhktznesomantodvmandthanaoqgdwlstdelateinrneadlerijdyhyofsajdquestebnablemegsrcoxaoseanlittlabfholmesfetiromjmanriagehwqdriftedowaagofcomaachothaemyowncogtlizuhlppenessanzghehomecyrtvktiytenestswhephriseupuvoytttsemwnwhofinftfindshcqsirvmlstarofhiskjnestablcwhqkdtherasufficernttoabsivberbmjatpentionsuileholmywwlubolthadeverybbrmofsoccitccytshiowholebkuemiansooprisqiyedenourloztingsinbuoevyjrpetxuriedaibnghisolxfosqiaydahternateagfromweyotscuevbepweencoynineandagfixoenehezrowsinafsofthedlygetttsefeerceenaegyofhisianokunyatqrehewaoftillasepirhkupwyaptractezoythestuxcojihixeajdoccuperdhisimmyrsilqcflteesandetgraordinuvytumecsobobservwgioninfofpoaodgzutphoseclqrsandcleuvirmkpehooemystenveswhichbedfkunlbajdonedaouopelessvctlkefqicealpoliyrfromtimyxoxocethewrdsomerngueaccoortslxiddoengsofhefsummonsnsohkislinphecaseksthetrepijfqahdprobhiscleweingupofnlewodgflantragedubftheatkcrsstrrztharsattreacomaleeurdjodawlykfthemiofionwhicblelgtancoiplishezfodelicanilcgddducyessfulhlfortherymgrodgqamelyofhohyandbeyohhtlkiedigjsofhiswptivityhiaezkhwsicdimerelufharedwinlaprjhprewdersofpuedailypliswoanpwlettleofilformerflmerjqnocoipanionkaenightinaawudtsetsentietdbfmarchiqesvkjucnijgfromafburneytoutaxounefonihadnoseeturnednscmbylarayticewhaamywaylexqexnhofghxakerstnretasipamwehzxehelhremembaeeddoorwbmclsksealsaysbeaofociatedcrmcsynowiphmywooeagandwitbxhijqrvinyidentsksthestudsmnwiqrwetewasseivrdwithakyinhkiicetkseeholirsagainahhtsqdohhoshewaseicloyinghcwebzhazrdenaryposrrshisroiqsakhemrihliantluyitandevyrawobozkezupisawdvstallspuvejowucepwsstwicavnadarkscphsauteeacainsttdrblindheqestgsiygtderoomssvftlyeagyvlccytshioheadsujxuponhiswlewzqnohiohandschnspedbehcrdloctzmeshoknewdvseverymisdetthlbiphisattegudeandmurnixjowdtdeirownogoryhewametauhklgaenhehadnvsenoutozliwjhurcraateddranmsandwamloxafoythascentobfomenewplsbpkcicancthebelhnndwasshianyvjoeheyhambersuichhadfivmixbymeejinpartilownhismurnixmadnopeffusirritseldogaawhktsewwsgladipuinktoseyqeaojhsarzlyaworzfpokenbunaixnqktndhyeyehesnvedmetouravsshlirphrewacnbsshiscamiojiyglrswndindiyntedaspilmtggielndwgasgenavnthecorhirxnunsespoodbefkeethefiryenhreovedieoverijuissingufermtjrzspactivefwfhion
+Sorted Solutions:
+Solution    Fitness
+tnesemksjpevsecuretnssword    0.18639571619812584
+tnesemksjpevsecuretnssword    0.18639571619812584
+tnesemksjpevsecuretnssword    0.18639571619812584
+tnesemksjpevsecuretnssword    0.18639571619812584
+teesemksjpevsncuretnssword    0.1901279785809906
+tnssemnsjpevsecuretkesword    0.1901279785809906
+tnesemnsjpevsecuretnssword    0.1901279785809906
+tnesemnsjpevsecuretnssword    0.1901279785809906
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevsecuretkssword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssdorw    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevsecuretkssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjsevsecuretnspword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretkssword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevseruretnsswocd    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevsecuretkssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tneeemksjpevsscuretnssword    0.19288139223560907
+tnesemksjeevspcuretnssword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevtecuresnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretkssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemkejpevsscuretkssword    0.19288139223560907
+tnesemnsjpevsecuretsnsword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tsesemnsjpevsecuretknsword    0.19288139223560907
+tnesemnsjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemkvjpessecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesmeksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.19288139223560907
+jnesemnstpevsecuretnssword    0.19288139223560907
+tnesemksjpevsecuretnssword    0.1993456492637215
+tnesemksjpevsecuretnssword    0.2099020080321285
+tnesemksjpevsecuretnssword    0.2099020080321285
+tnesemksjpevsecuretnssword    0.2099020080321285
+tnesemnsjpevsecuretkssword    0.2099020080321285
+tnesemksjpevsecuretnssword    0.22372369477911647
+tnesemksjpevsecuretnssword    0.22567925033467204
+tnesemksjpevsecuretnssword    0.2316053547523427
+tnesemksjuevsecpretnssword    0.23505006693440425
+tnesemksjpevsecuretnssword    0.23816760374832668
+tnesemksjpevsecuretnsswodr    0.24509022757697457
+tnesemksjpevsecuretnssword    0.24859223560910304
+tnesemksjpevsecuretnssword    0.2488246318607764
+tnesemksjpevsecuretnssword    0.26288085676037487

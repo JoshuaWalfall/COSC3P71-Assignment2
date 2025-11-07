@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7195604819277108    0.6500361445783133
+1    0.6982299732262384    0.6068168674698795
+2    0.6820994752342703    0.582964390896921
+3    0.660635609103079    0.5294168674698795
+4    0.6225333092369478    0.5113445783132531
+5    0.5925163641231593    0.5113445783132531
+6    0.5606244203480589    0.5021290495314591
+7    0.5351230361445783    0.48242570281124497
+8    0.5165447764390897    0.451825702811245
+9    0.5004561499330655    0.43236224899598386
+10    0.4838414591700134    0.43236224899598386
+11    0.4624824631860776    0.4221847389558233
+12    0.449455140562249    0.4161606425702812
+13    0.43868443105756355    0.41152771084337353
+14    0.4288682838018742    0.3957378848728246
+15    0.4189264979919679    0.3881006693440428
+16    0.40964739223560914    0.3781978580990629
+17    0.4036798607764391    0.3781978580990629
+18    0.3947145917001339    0.36093199464524767
+19    0.3850934618473896    0.36093199464524767
+20    0.37838687282463185    0.35463346720214184
+21    0.3675097590361446    0.3366985274431058
+22    0.35947921552878176    0.3366985274431058
+23    0.35196869611780457    0.32571887550200795
+24    0.3407333788487283    0.31754939759036155
+25    0.334832203480589    0.31754939759036155
+26    0.3260918259705489    0.31754939759036155
+27    0.32507102008032135    0.31754939759036155
+28    0.32134340562249003    0.31754939759036155
+29    0.3224186291834003    0.3171502008032129
+30    0.31990329317269084    0.31353333333333333
+31    0.3192019437751005    0.3059087014725569
+32    0.3192457536813923    0.2921341365461847
+33    0.3150772423025435    0.2921341365461847
+34    0.3108905381526105    0.27272315930388213
+35    0.2999991512717537    0.26254564926372154
+36    0.2903698902275769    0.26254564926372154
+37    0.27887065863453814    0.26254564926372154
+38    0.2724537242302543    0.25183614457831327
+39    0.2671144578313253    0.25183614457831327
+40    0.2607584953145917    0.2471507362784471
+41    0.25820483534136546    0.2471507362784471
+42    0.2551943212851406    0.2471507362784471
+43    0.2512302382864793    0.2471507362784471
+44    0.25099042302543506    0.2471507362784471
+45    0.24889240428380188    0.2471507362784471
+46    0.2492474752342704    0.24179598393574295
+47    0.24926401070950469    0.24179598393574295
+48    0.25200696653279786    0.24179598393574295
+49    0.24928004819277105    0.2225223560910308
+50    0.2443246987951807    0.2225223560910308
+51    0.23853613654618475    0.2116755020080321
+52    0.2324329718875502    0.2116755020080321
+53    0.22412551807228914    0.2116755020080321
+54    0.2196278875502008    0.2116755020080321
+55    0.21527171887550195    0.2116755020080321
+56    0.2179388112449799    0.2116755020080321
+57    0.21444178580990628    0.2116755020080321
+58    0.21739362516733596    0.2116755020080321
+59    0.21683281659973222    0.2116755020080321
+60    0.2165619009370816    0.2116755020080321
+61    0.2157071084337349    0.2116755020080321
+62    0.21368344846050868    0.2116755020080321
+63    0.21666292637215526    0.2116755020080321
+64    0.21449106291834    0.2116755020080321
+65    0.2141747898259705    0.2116755020080321
+66    0.2148615582329317    0.2116755020080321
+67    0.21472639892904952    0.2116755020080321
+68    0.21455364123159298    0.2116755020080321
+69    0.21342996519410973    0.2116755020080321
+70    0.21423187148594372    0.2116755020080321
+71    0.21572455421686743    0.2116755020080321
+72    0.21490525301204816    0.2116755020080321
+73    0.2161244364123159    0.2116755020080321
+74    0.21566000803212848    0.2116755020080321
+75    0.2131235180722891    0.2116755020080321
+76    0.21441244176706825    0.2116755020080321
+77    0.21583395448460505    0.2116755020080321
+78    0.21396530923694776    0.2116755020080321
+79    0.21335903882195445    0.2116755020080321
+80    0.21359343239625164    0.2116755020080321
+81    0.2141885301204819    0.2116755020080321
+82    0.21497617135207495    0.2116755020080321
+83    0.21461062918340024    0.2116755020080321
+84    0.21512112985274429    0.2116755020080321
+85    0.21625287817938418    0.2116755020080321
+86    0.21540533333333328    0.2116755020080321
+87    0.21626172958500667    0.2116755020080321
+88    0.21673685943775098    0.2116755020080321
+89    0.21746171887550197    0.2116755020080321
+90    0.21432717269076304    0.2116755020080321
+91    0.2136343962516733    0.2116755020080321
+92    0.21464981526104412    0.2116755020080321
+93    0.2136031459170013    0.2116755020080321
+94    0.21605265595716194    0.2116755020080321
+95    0.21678482463186075    0.2116755020080321
+96    0.21557575903614457    0.2116755020080321
+97    0.21486571352074965    0.2116755020080321
+98    0.2136848567603748    0.2116755020080321
+99    0.21308691030789823    0.2116755020080321
+
+Best Solution: thisteasuperzeguketntdwoqd
+Decrypted Text: 
+toshtflockhoemaszhavrplwbysthelcmanihaoeoesdkzgtarehimmechionhernnzeyajlnihesnameicviseyeslhaejlecrtsaodpreddainatesmhawoohrnuhessexitlosnotthttdemehgzcyenotionpyintolooeboyinrmtadmeralltaotionstnztoapbmtpasticulpflyweretbdoyraasiohjscoldefecisebntwdtinnaaybblancesaindhewtsethkavsihenostpegtectrealojiugwacdbsfrvingbochinetaaptoesbqadhbsseenqitasalooenhlwkhkshaweplactrhimselyijamahfdeosjtionhtbeversphkaomtdrrdftfrpassxcnssavepiphhgeodpndbsneeriveyweretdiiyaxydihiogsforiveobseroeneecayktntgordralwngthevxihfyoizdcsmptivespbdactiogsxuafkeswetsainedgsasonermowdtipftrhiotrusidbsintohbskwudayhratfandficslyadjultadaeicdgamfntwasicintrodncaakiogqpctjngfacicrwhichfichatdenladpubtupdballhisfejthlnrrjlttgriticosensitbvaiuspetbenuoracrpqkinonehfdizosagxghqowerltbseswouedjoabazngedjsturbxbgthanaltnougazniiooinanaiiresuchtsdizajqxtttierewahputonewhmwnaodvlpnduhatwobonwasthxlwtlinrmtadmerofdjpiousanwqqeztebmpblfmemornwhadseegletalabewolneslattzymymarkiwglhwqcgifuedusaloyfrometcdoahaelnowocomplthehappigeoshnzggthonecentgsdinterxspsdhepggisfuparojbdthemagwdominfsuineshimstzfmastekobhpskjmtstbblishbsntwerelubfpcermitobbsorbpzlmyattxnpivnsuhaehplmeswwcloathewereyybbqboftocietnkithhisphkllbkudbiaosoulrtaainedigoqrsozthcgsjnbakeggtreetbnreekaibmvhitoldbodysandalmennhteafuronweektdkeekbetpeanjoynhceaodambiiwonthedkosspnafrdftiedrugpbdthefixryelnaefnofiisownzsennatukededaofsxllbseversseplyatmrwcaezoxihettudyouqrimeanwoycbpercwisjmmensttacultixswnketgqporeinaryecwersofhboeyvwghdniofollolwngouttaooejlqrrpnddlearicuupthosxmusaenvdhwhjchhadqsenabanwojekaouneelfssbytwsofficitllosiyregomuimetoiwmeiheakdooternfjeadcountdthisdoiggoomhefrjmmpnstoossssaintaeyazeksswetsepoffbirderofaiocsewehcguqofthehwngularmrwgldubeihebtkinsdbbrothekswtareabdmameeanduwnallyoytdetiofhdnwiichhewodaccomilesoezfnseljcatelnondsuccxsofblhledrtiereigcwngfamieykfoohyzcdbfyondtwssesignlobhpswpsxviuyhoweksrwhichbmarllufgpreewithaazthereawensvfpudsaimypreshwknewlimthevfiledrmfrfriecrandcomiajivnkadcigititwahcnthetwxnpiltdbebardhiwasgsturninzfnotafbtgneztoapaiwentforbhwduosediuroedtocxjilpracmiyedhaalnwazledmeivroughbtkarztnrdiasjpasseshhewellkeietbaedsdoprwhicwaustalwtyoblaofnriauedinmnaindwitamuwvoeafpndxiththtrarkincbdanasksswesuudyinhqarletipaoslivrclitiakeensssiretoleahvlirrpgajnandtdynowhowaesazeickdyioghisemhraordiganywosrqhhitroomslsrebrileiwnaluyhianeevenahwlookednpeshwdvrialmspareuwgurepalspwpcavmpdasksilhdietteagtijsatdraainehewaseocingthxrkotssveilyfagerlnkithhisaewdzujxteoniischehhandhisaajdzchnreedcehindwwmtomewaognlwdvrtvesymoodpbdhabitaioaategtseaodmanntftoldthxinodnogngyhfwasatlcrkagaighahhdnvrtnovtofhihrrugcrettadkranlhanewashoiiponthelcanaobfnbenfwprobasmirangmhabllhnmswatshownjdtothecaaiblrsuhrhhbdformtflybeenbnlaytilnlnhjsmanntfwasnotxfbuzirrhisemdomwahputhewalghakipuhcktpseemelwthhardeywwvrzfodkeobutwiivakindlreueoesnutdmftoanagachairtarawhcnbrhhitcaseouqigarsagdenkiynstdatpiritroseandazaoglnavmihedornerivenhesthozblfkedihegireanszookedmxoreyijuhhsiogularxbtrospevtevlfwfgxon
+Sorted Solutions:
+Solution    Fitness
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeeukgtntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzegqketntdwoud    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2116755020080321
+thisteasuperzeguketntdwoqd    0.2364412315930388
+thisteasuperzeguketntdwoqd    0.2401756358768407
+thisteasuperzeguketntdwoqd    0.25083266398929044
+thisteasuperzeguketntdwoqd    0.26039330655957155

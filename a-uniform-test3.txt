@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7108898821954485    0.6345416331994645
+1    0.6897563078982597    0.5852607764390896
+2    0.6772182436412316    0.5820511378848728
+3    0.6529464123159304    0.5820511378848728
+4    0.6264303534136546    0.5661242302543508
+5    0.6025216974564926    0.5374489959839357
+6    0.5745829022757697    0.5187451137884873
+7    0.5541869290495315    0.5054650602409639
+8    0.5382104257028112    0.5017301204819278
+9    0.5239485194109772    0.486997858099063
+10    0.5125048165997322    0.4621518072289157
+11    0.5013154002677376    0.4621518072289157
+12    0.48830740562249    0.44312423025435077
+13    0.47447881927710844    0.4410637215528783
+14    0.4618015582329317    0.4408198125836679
+15    0.4513505970548862    0.43777376171352067
+16    0.44455369477911644    0.4321183400267738
+17    0.44047441767068274    0.4307796519410978
+18    0.4378152235609103    0.4240862115127176
+19    0.43311525836680054    0.4232795180722891
+20    0.42878809906291837    0.4232795180722891
+21    0.4250456358768407    0.41901311914323963
+22    0.4229715528781794    0.41901311914323963
+23    0.4219569344042838    0.41901311914323963
+24    0.4205490227576974    0.41901311914323963
+25    0.4191837751004016    0.41901311914323963
+26    0.41901311914323963    0.41901311914323963
+27    0.41901311914323963    0.41901311914323963
+28    0.41901311914323963    0.41901311914323963
+29    0.41901311914323963    0.41901311914323963
+30    0.41901311914323963    0.41901311914323963
+31    0.41901311914323963    0.41901311914323963
+32    0.41901311914323963    0.41901311914323963
+33    0.41901311914323963    0.41901311914323963
+34    0.41901311914323963    0.41901311914323963
+35    0.41901311914323963    0.41901311914323963
+36    0.41901311914323963    0.41901311914323963
+37    0.41901311914323963    0.41901311914323963
+38    0.41901311914323963    0.41901311914323963
+39    0.41901311914323963    0.41901311914323963
+40    0.41901311914323963    0.41901311914323963
+41    0.41901311914323963    0.41901311914323963
+42    0.41901311914323963    0.41901311914323963
+43    0.41901311914323963    0.41901311914323963
+44    0.41901311914323963    0.41901311914323963
+45    0.41901311914323963    0.41901311914323963
+46    0.41901311914323963    0.41901311914323963
+47    0.41901311914323963    0.41901311914323963
+48    0.41901311914323963    0.41901311914323963
+49    0.41901311914323963    0.41901311914323963
+50    0.41901311914323963    0.41901311914323963
+51    0.41901311914323963    0.41901311914323963
+52    0.41901311914323963    0.41901311914323963
+53    0.41901311914323963    0.41901311914323963
+54    0.41901311914323963    0.41901311914323963
+55    0.41901311914323963    0.41901311914323963
+56    0.41901311914323963    0.41901311914323963
+57    0.41901311914323963    0.41901311914323963
+58    0.41901311914323963    0.41901311914323963
+59    0.41901311914323963    0.41901311914323963
+60    0.41901311914323963    0.41901311914323963
+61    0.41901311914323963    0.41901311914323963
+62    0.41901311914323963    0.41901311914323963
+63    0.41901311914323963    0.41901311914323963
+64    0.41901311914323963    0.41901311914323963
+65    0.41901311914323963    0.41901311914323963
+66    0.41901311914323963    0.41901311914323963
+67    0.41901311914323963    0.41901311914323963
+68    0.41901311914323963    0.41901311914323963
+69    0.41901311914323963    0.41901311914323963
+70    0.41901311914323963    0.41901311914323963
+71    0.41901311914323963    0.41901311914323963
+72    0.41901311914323963    0.41901311914323963
+73    0.41901311914323963    0.41901311914323963
+74    0.41901311914323963    0.41901311914323963
+75    0.41901311914323963    0.41901311914323963
+76    0.41901311914323963    0.41901311914323963
+77    0.41901311914323963    0.41901311914323963
+78    0.41901311914323963    0.41901311914323963
+79    0.41901311914323963    0.41901311914323963
+80    0.41901311914323963    0.41901311914323963
+81    0.41901311914323963    0.41901311914323963
+82    0.41901311914323963    0.41901311914323963
+83    0.41901311914323963    0.41901311914323963
+84    0.41901311914323963    0.41901311914323963
+85    0.41901311914323963    0.41901311914323963
+86    0.41901311914323963    0.41901311914323963
+87    0.41901311914323963    0.41901311914323963
+88    0.41901311914323963    0.41901311914323963
+89    0.41901311914323963    0.41901311914323963
+90    0.41901311914323963    0.41901311914323963
+91    0.41901311914323963    0.41901311914323963
+92    0.41901311914323963    0.41901311914323963
+93    0.41901311914323963    0.41901311914323963
+94    0.41901311914323963    0.41901311914323963
+95    0.41901311914323963    0.41901311914323963
+96    0.41901311914323963    0.41901311914323963
+97    0.41901311914323963    0.41901311914323963
+98    0.41901311914323963    0.41901311914323963
+99    0.41901311914323963    0.41901311914323963
+
+Best Solution: taeisfeyqlirsrcjcepzesdvre
+Decrypted Text: 
+tvwruehigodolzedhhejgaepaxsalombiurmdavrspadonvetkdgitqodgeirlaruadpganzctaxrmatisduemicassueprliqgeltncpyinezehexastuehwolfcfaxrreemdmnohsxphaghpueluonrxmntpsxqxehxshovrfzgirfbetwldrhpvuzknmsjsaadewatpbeitrsijyvqehsaineaohzgreohthaircvpnfeawmwabugaobirbplruakaugotzehhlawafiepkejhtaxmnsatohsawxvaasbntcgaorouleqvprqcnybmrathntewewpflwaarslixrhpuwehovrrstwovzdatvdpsemuqdcqwalfvnlualtsphlisivrruaapivopoxezuthfgoymeqphwcybjmwerewvtspgicsagwarnlibjuasaineaqmtgabmstabnfsmsbjuaifwarvrrpmcemzegmfnrkvkmvjaxlavevlqgomnsnlfosicicqazugxeonfbfifoshhxmrziuinhrwmsrartbaobitticabnsrbwseaocrxkhifohcdemwctmeznkjsdrhsehfusgeoiemqsrtfemtdecjbehxvkdupelsisufavmimgmemjbnqlmyhmvgsithscwtwotbayzeawfplesmrneplrfguemsfrpxsdnoyrwetiietcstsimxgtnrhgbqpgcrsjeoshthowovizapnwlvvuaoywakulqnzibencrxwirtbvlyacnlejasgrzcgenctbhnhnhrkjhnywyyhafhthanememmhdrlakioqnsrawozayiohjaagwtgaaaycnjqewpheyaetirfbetwldrvjnkoeiywwndduphtipbaueeletsbovduhwaenyieilepthhemdsseduyugcqwrrvarthaerrbytddbwkmnuzvsieaphzihesayhpnbottvugabetlinrsdpnduveahmdclrdhrzcrxareftdlhidvrbletphvykaznliianjhzuirthfbgdrhpqcuybgewperbfsxsoxbelmaalpwrcrjnaineshfqxcifbtmhaasvvlqyhgcepteattdnwiwlxaokmlwgxbhiexdedrvpgyfpfmhysncpidojenlleswuowtboismbtnrobpbuzwcrizinbucaodhwnzlimbhoohfpliipbueipsampbgabsnlkfyexourhwltrryptioufkhmvelodejayofatwreyrocbwnxtncatfsjvkhxladrbwdxnetgoymhddyyqqaznlibieecptnesuyhyhhsvaxarahrepurrhplasthieearecibtrajpcwtteaniedcmtaxssukcyvpncqiwndbcnjpifrhblilmlrcuswwyppiefaysexufahkdhnhvifbsyvwkfoospgvauwogbneospymvjasypthbsprlufgagwckehvsdtqjxlksezydierjsspaibhoenrrahefwndbnpsasicpxeersicdxrkzjmyiaypzaicftrhfthmlxyjviymlaarqszbevbuuxtcbobrdesdcwhkintszuhitguffomsasytromemjthrclheoghhxmrdpvjpchnxivkfhvsnaeaswnznpnfaloivjaypwrteartdypttaxaskprceaxlsxderfaeirioqoftldehrnvvjuppuofghpbistwogphhcoloxnzuggkmpyidwedtcdxeibaaivonjxwyycefsqjllztokmhdrlmqdvjajeiilloqwolmonwuexouhdxroywmcnsbfsxsadhiobtxhvaolrnqlmyhizectlytvakxdvialkbypbivaadrrddftisdtblxpyicivghiahitglpdfmztokfeqfymodqwhhgkmpnntdnoosnbzhsiaakibjnlipweatttthptmtkcgidechrpovrengsrzbajpirgxysohtkjvahxjkriuaocowsstnknddasmyieftvwctvcplheoayptykekqojuniykdbaxechtrfsttlioazwotgdyaihlrrmpbbessdwhoqwommxzqmxehwalsmtastccbttddprwozehhaethzyhdoiouagwwhtoxruqwlomjciqeyisoghhxlttdfmxipwlpipiwnsdtizfrwbmhzklixtrocviposresdlmfgaztimauhdexjialkwhrwlhemqzorbnfhpwongnusvzinnrjeowffsabsqovqcmrnyfvellvayilymwttgddvlrkivhisoaducidpwhjgttelrphvovvcovilasfthxcejbawtrjspprehanxiwgavndithfplbgdgedecfnycrkpheeozbswjtterezglvvojenlleshraohunliphghhsjloigwhhleshnnohclbgpxwbdhprnxvinsqawhbkytwhjgeoxrxmvsnqazbefethvslitiuidxtncmhrxuepiphphevrzlnsucrraevazedmbneekwinuespdrjgeghusomlsiqnokgneageosrebastgdvazlyjhlirxdespeyioftcmxgevpyslbricvejgtuemtllbbdptsrhvaxkcpixlachnmmtrwiwcaaacfvvwuehsfianiaplgtmzcwgairmhrxuesuwrktesffhivfwtlxlcotakioqnlisastllsitiwndmorelqomvpblendllahdrdtdodxnauaasjuwemrzlyrypwewbjewfesohrkhzybemntheehpcrpgsabsbaziyvpeaevoanqiysicbhewtsoiymdsnoyerzagnsrtnejbtaxcnruibjuahliotobdmtfosstaxfhrlextykioizmebvpginiwslbnfusebyaplswlecgigtfatvihg
+Sorted Solutions:
+Solution    Fitness
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963
+taeisfeyqlirsrcjcepzesdvre    0.41901311914323963

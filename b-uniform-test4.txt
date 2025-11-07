@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.1, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7105922409638555    0.5788112449799196
+1    0.6919863132530121    0.5788112449799196
+2    0.6691802677376171    0.5572591700133869
+3    0.6465305060240963    0.5572591700133869
+4    0.604941922356091    0.5255906291834002
+5    0.573194203480589    0.5169809906291835
+6    0.5462865836680053    0.49265542168674703
+7    0.5276426907630521    0.48069210174029464
+8    0.5073526452476572    0.4577973226238287
+9    0.48543573226238285    0.43450736278447116
+10    0.47284076305220885    0.4310235609103079
+11    0.4599631137884873    0.4251271753681392
+12    0.44797551807228914    0.41503453815261043
+13    0.4372057295850067    0.4050562248995983
+14    0.4251212878179384    0.38885488621151276
+15    0.41425806961178047    0.3810123159303882
+16    0.4045147014725569    0.3775285140562249
+17    0.39531797054886214    0.36748835341365454
+18    0.3839979491298527    0.35347228915662643
+19    0.3728100696117804    0.33803721552878185
+20    0.3605202891566265    0.3280372155287818
+21    0.35072322623828645    0.31809397590361443
+22    0.34242608032128513    0.3138789825970549
+23    0.3354919491298527    0.2825443105756359
+24    0.3223716706827309    0.2825443105756359
+25    0.30933118072289156    0.28120562248995984
+26    0.2976787389558233    0.27807791164658635
+27    0.2865568460508701    0.27378018741633203
+28    0.2833963694779117    0.27378018741633203
+29    0.28350671753681395    0.27378018741633203
+30    0.2816818313253012    0.27378018741633203
+31    0.2784721419009371    0.2624637215528782
+32    0.2771845836680054    0.2624637215528782
+33    0.2749410896921018    0.25548862115127174
+34    0.27172353681392236    0.2536995983935743
+35    0.2653663882195449    0.2309419009370817
+36    0.2586198206157965    0.2309419009370817
+37    0.2507550281124498    0.2309419009370817
+38    0.23946233467202144    0.2309419009370817
+39    0.23358594109772426    0.22955876840696124
+40    0.23373482463186082    0.22955876840696124
+41    0.23292806961178047    0.22955876840696124
+42    0.2333689933065596    0.21878313253012047
+43    0.23172628647925037    0.2120013386880857
+44    0.2302131164658635    0.21014779116465862
+45    0.2269973681392236    0.21014779116465862
+46    0.2194401900937082    0.21014779116465862
+47    0.21668672556894245    0.21014779116465862
+48    0.2134789236947791    0.21014779116465862
+49    0.21298873360107096    0.21014779116465862
+50    0.21561726639892903    0.21014779116465862
+51    0.21328782329317267    0.21014779116465862
+52    0.21392478714859436    0.21014779116465862
+53    0.21354468540829985    0.2064382864792503
+54    0.21440268273092367    0.2064382864792503
+55    0.21293924497991967    0.1870136546184739
+56    0.211169344042838    0.1870136546184739
+57    0.20542335742971887    0.1870136546184739
+58    0.20014846854082996    0.1870136546184739
+59    0.19260450066934404    0.1870136546184739
+60    0.1910443373493976    0.17383775100401608
+61    0.19105498795180725    0.1698283801874163
+62    0.18858208032128515    0.1698283801874163
+63    0.1850595341365462    0.1698283801874163
+64    0.17911528246318606    0.1698283801874163
+65    0.1741350066934404    0.1698283801874163
+66    0.1717559303882195    0.1698283801874163
+67    0.174088781793842    0.1698283801874163
+68    0.17339873360107091    0.1698283801874163
+69    0.17250497188755015    0.1698283801874163
+70    0.1731682784471218    0.1698283801874163
+71    0.17414939223560907    0.1698283801874163
+72    0.17102684872824628    0.1698283801874163
+73    0.17359386880856756    0.1698283801874163
+74    0.17310692904953143    0.1698283801874163
+75    0.1721838688085676    0.1698283801874163
+76    0.17252873627844711    0.1698283801874163
+77    0.1735151111111111    0.1698283801874163
+78    0.17251656224899595    0.1698283801874163
+79    0.17401364658634536    0.1698283801874163
+80    0.17435919678714856    0.1698283801874163
+81    0.17280189825970546    0.1698283801874163
+82    0.17435870950468538    0.1698283801874163
+83    0.17112116198125832    0.1698283801874163
+84    0.1730739518072289    0.1698283801874163
+85    0.17264623025435072    0.1698283801874163
+86    0.17438657295850063    0.1698283801874163
+87    0.1745891111111111    0.1698283801874163
+88    0.17129720214190092    0.1698283801874163
+89    0.17408939491298525    0.1568824631860776
+90    0.17131663186077642    0.15411512717536816
+91    0.1687893413654618    0.15411512717536816
+92    0.16599198125836678    0.15359651941097718
+93    0.16083852208835342    0.15359651941097718
+94    0.15789260240963857    0.13344069611780454
+95    0.15481183132530119    0.13344069611780454
+96    0.15234788219544845    0.13344069611780454
+97    0.1476079143239625    0.13344069611780454
+98    0.13675903882195448    0.13344069611780454
+99    0.13656536813922354    0.13344069611780454
+
+Best Solution: shcstsasufersecuredassmord
+Decrypted Text: 
+uoyhtrlocuholmesshqisavwayttnelomanshaveseldamhekrdhjmsectionrerunderazyotrernbmkichiseiessheeclupsecandqrkddminadesthewhoxeofrersfxotlasnodthathefextaniemouiunpkintyloveforidenekdlesarltmotiynsandthafonezartjcalprlyworeabhorrqnttyhisdorderecicebutadmidablibalbniesmindrewasitakqittremottvegfectbeasoningmndolserwitgbachixethattheiorlnhasteknqutaskloverhewauldraveqlgctdhimcelfinafaxsepysitjothtnevebspokeofttesopterqaysxonsskvewithagubeaxdasoekriheyworeadmiranletringtfuriheobcerverexcqllextfosdxalingtreveilfroymencmotjvkspndacdionsbutfarthotrajnkdgeasoxertoadmifsucrintsuyidnsindohisowndqlickteaodlicelyanjustedteyperkmenuwgsiointboduceadietramtinhfgciorwhschmightttrowkdouctapdnallrismentaldesuvtsgsizicasencitiveinsfrumontosairpckinyneofhisoinhiqhpoxexltnsesgouldnotbqmorodisuuxbxngthknastrongqmotsonioataiuresechashisazdyedthesecahbutoxewomantotimaxdthbtcobanwacthelateidenekdlesoldjbioucandquestuonallemfmurnihadceenlittlqofhylmetlgttlymywarriagehmddrsfteeuyalayfrymeachothqrmyywncpmvlttehazpinessanptheromedettgedinderestswhuchrsseuqaxojndthomanwhofidstfsndsiisstlfmacterofhisawnectabmiyhbentworesufficuentdoabtoxbpllmykttentionihiloholneywwoloadhedeveryrormyfsodiktnwithriswholebahemsanspurrtmainodinourlopginqsincaqegstreotburiedayongrisomdhodksannalternatungfbomwfeqtdweekletweencooainoandbmhiiiontredrowsinqssoptheeragpndthofierceenqrgyyfhitocnzeennkturehewaestivlasfvkrseepliattractepbytrestvdeoucrimoandoccupuedhssimnetstfacuvtiesandejtrayrdioaxyeowercofobservmtioxinfplrolingoetthoseclgesaxdclfaxicguptrosemystediesghicihgdqeenalandonedaehopolestbetweoffscialpolioefrymtinezoiimeireardsomehaguoaccputtdfhisnoingsofhussuwmonttuosessasnthecaseafthotreqolfburdebofhisclemrinqupogtnehinguvartragedkoftreatlitsdnbrodhersattruncowalefatduinalvyofthemiesioxwhidhnewadacmomplishepsodolicbtklnandseccessfulxyfobtheseogcingfkmilyofhoxlannbeypnjtwesessgnsofhismctifityiocekerwhschimerelkshabedwjtnaalthebeadersoffhedkilyqrkshikneglittleofyyfobmergroecdandmompanionanensghtjtcahonthotwentiettofmkrchjwgsgeturxingfromavourxeytpavaiientporihadnoireterneetucxvilpbacticewhqnmygaylfdseihrouqhbakerstdeetksipbsyesthewollremembqrednoorxhocwmustklwaysbeaesocsateeitmnmindgithmywooungaxdwiuhzhtdarksncidentsafthostueyonhcarlotiwasseiledwsthaleknsesirotoseeholyesaqainbnjtdknowrowhewaseyploiingiiyemtraobdinarypoiersrisrposslerebbilliantlklitkndewetahiloouedupisawtistkllsqaxeuiguropasstwicqinanarktirhduettoagainsttteblsndhfwgseacinqtheroomsiiftvyeahexlnwithrisheadsuzkupynhitcnehtandrishandscxaspodbeiitdwimtowewhoknewtiseferynoudpndhalithisattutudoandnatntrtolntheirownetorihewbsgtlorkaqainhehaddisexoutpfnihdrugmreateddrqamskndwbsnoiupondhescentorsomonewqrubaemirkngthebelxandgassiocnjptotrechamberihicrhadgoxmtrlyboeninpartyyowxhisnatntrwasxoteffusiheitceldpmcahbuthowasgladifhinutosfeselithhkrdlyaworpspouenbvtciihakixdlyeyeheiavenmetpatagmchasrthrewacdossriscbskoucigabsandindioatenaspjrotraseaxdagasgenqintrecosnkrihenhostoodbefaretrefisegnslookodmeoverizhiscingvlgrxntrocpectivefmshiyn
+Sorted Solutions:
+Solution    Fitness
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcetsasufsrsecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredssamord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsamufersecuredasssord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsdsufersecureaassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsaeufersscuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstoasufersecuredassmsrd    0.13344069611780454
+shcstsassfersecuredausmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstfasusersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcsmsasufersecuredasstord    0.13344069611780454
+shcstsasrfeusecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersesuredacsmord    0.13344069611780454
+shcstsasuferdecuresassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredssamord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.13344069611780454
+shcstsasufersecuredassmord    0.1433084337349397
+shcstsasufersecuredassmord    0.18013975903614457
+shcstsasufersecuredassmord    0.18655153949129855
+shcstsasufersecuredassmord    0.19651726907630518
+shcstsasufersecuredassmord    0.20114002677376172
+shcstsasufersecuredassmord    0.20545435073627846

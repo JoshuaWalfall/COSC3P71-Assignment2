@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 0.9, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.714010329317269    0.6191089692101741
+1    0.6929063855421687    0.6070607764390896
+2    0.6758328728246319    0.6023753681392237
+3    0.6482384578313253    0.563605890227577
+4    0.6207254645247657    0.5408481927710843
+5    0.5993577456492637    0.5179534136546184
+6    0.5751432771084337    0.49934886211512725
+7    0.5535619303882195    0.49934886211512725
+8    0.527566578313253    0.49787309236947785
+9    0.5091924283801874    0.47748969210174025
+10    0.49733943239625167    0.47190575635876836
+11    0.4882587121820615    0.47190575635876836
+12    0.4803875555555555    0.44522409638554217
+13    0.47356339491298527    0.4318372155287818
+14    0.4674918232931726    0.4318372155287818
+15    0.4589329263721552    0.4318372155287818
+16    0.44860681124497986    0.4318372155287818
+17    0.43875815796519413    0.4318372155287818
+18    0.43369850602409643    0.42218473895582315
+19    0.43152580455153944    0.42218473895582315
+20    0.4302928192771084    0.42218473895582315
+21    0.42759012583667994    0.42218473895582315
+22    0.42372913520749655    0.42218473895582315
+23    0.4222812637215527    0.42218473895582315
+24    0.42218473895582315    0.42218473895582315
+25    0.42218473895582315    0.42218473895582315
+26    0.42218473895582315    0.42218473895582315
+27    0.42218473895582315    0.42218473895582315
+28    0.42218473895582315    0.42218473895582315
+29    0.42218473895582315    0.42218473895582315
+30    0.42218473895582315    0.42218473895582315
+31    0.42218473895582315    0.42218473895582315
+32    0.42218473895582315    0.42218473895582315
+33    0.42218473895582315    0.42218473895582315
+34    0.42218473895582315    0.42218473895582315
+35    0.42218473895582315    0.42218473895582315
+36    0.42218473895582315    0.42218473895582315
+37    0.42218473895582315    0.42218473895582315
+38    0.42218473895582315    0.42218473895582315
+39    0.42218473895582315    0.42218473895582315
+40    0.42218473895582315    0.42218473895582315
+41    0.42218473895582315    0.42218473895582315
+42    0.42218473895582315    0.42218473895582315
+43    0.42218473895582315    0.42218473895582315
+44    0.42218473895582315    0.42218473895582315
+45    0.42218473895582315    0.42218473895582315
+46    0.42218473895582315    0.42218473895582315
+47    0.42218473895582315    0.42218473895582315
+48    0.42218473895582315    0.42218473895582315
+49    0.42218473895582315    0.42218473895582315
+50    0.42218473895582315    0.42218473895582315
+51    0.42218473895582315    0.42218473895582315
+52    0.42218473895582315    0.42218473895582315
+53    0.42218473895582315    0.42218473895582315
+54    0.42218473895582315    0.42218473895582315
+55    0.42218473895582315    0.42218473895582315
+56    0.42218473895582315    0.42218473895582315
+57    0.42218473895582315    0.42218473895582315
+58    0.42218473895582315    0.42218473895582315
+59    0.42218473895582315    0.42218473895582315
+60    0.42218473895582315    0.42218473895582315
+61    0.42218473895582315    0.42218473895582315
+62    0.42218473895582315    0.42218473895582315
+63    0.42218473895582315    0.42218473895582315
+64    0.42218473895582315    0.42218473895582315
+65    0.42218473895582315    0.42218473895582315
+66    0.42218473895582315    0.42218473895582315
+67    0.42218473895582315    0.42218473895582315
+68    0.42218473895582315    0.42218473895582315
+69    0.42218473895582315    0.42218473895582315
+70    0.42218473895582315    0.42218473895582315
+71    0.42218473895582315    0.42218473895582315
+72    0.42218473895582315    0.42218473895582315
+73    0.42218473895582315    0.42218473895582315
+74    0.42218473895582315    0.42218473895582315
+75    0.42218473895582315    0.42218473895582315
+76    0.42218473895582315    0.42218473895582315
+77    0.42218473895582315    0.42218473895582315
+78    0.42218473895582315    0.42218473895582315
+79    0.42218473895582315    0.42218473895582315
+80    0.42218473895582315    0.42218473895582315
+81    0.42218473895582315    0.42218473895582315
+82    0.42218473895582315    0.42218473895582315
+83    0.42218473895582315    0.42218473895582315
+84    0.42218473895582315    0.42218473895582315
+85    0.42218473895582315    0.42218473895582315
+86    0.42218473895582315    0.42218473895582315
+87    0.42218473895582315    0.42218473895582315
+88    0.42218473895582315    0.42218473895582315
+89    0.42218473895582315    0.42218473895582315
+90    0.42218473895582315    0.42218473895582315
+91    0.42218473895582315    0.42218473895582315
+92    0.42218473895582315    0.42218473895582315
+93    0.42218473895582315    0.42218473895582315
+94    0.42218473895582315    0.42218473895582315
+95    0.42218473895582315    0.42218473895582315
+96    0.42218473895582315    0.42218473895582315
+97    0.42218473895582315    0.42218473895582315
+98    0.42218473895582315    0.42218473895582315
+99    0.42218473895582315    0.42218473895582315
+
+Best Solution: fhnsttesbeasgfchrmaywsqorn
+Decrypted Text: 
+honhtqhovvlnxlefsztkoarwaogtcelniagtlzhdsrlvdodegrdxwmhecseogsiqgmdrrscaktnerdomzicgesxjiregercdxroeyantdrzddlenteirfgejhgagkfnerisxdtlzonhexgmshrfwavwneemehijnpjenmzpnhdfbraggjegdlufagltlktbzrrmmdghsiqjevarjwcplpqhyppvdmahbrjtpptuhiiqogdeqacbdiagsaqmagcxlebabonxeslenwsivmrigactkptnemegtkegeacmcizennvnyppzohsehjiigbzyhbyistztghwlqnljhaigeznqtpallpnhdrueodwhdnavudlvctcdifdikrhnnfsauapusijwoihtmavxcwoajebflwgooltehdansxnjsllzdihtuayxdaatdaibezrigayppvdmcmvrsqnatninwgfjrigaoudiqhdrrxutnhettfefdmalhjgmsiuqhlsrgboanymojwvzspmzavemnzrbhtxdtphktrqwnzdgdwshyiqfnaqmaiuqcninjfunidmoigesgurojnvtnecgteqbdaicdhytonteseqtwbrargmedhwvsinenmcscgbendahvnaitidufvcinnwatggyhgutlwtkwgdokptppdmwlesmrydngadggourtswfioiczoegdmsuuevnkitqmkntefaxrpbgigzrdaehvsglpdimhpekemltmoelhstxcnbtttokrkdiihumbxmctalrzesrbnytoktoonybaiaitnelfggmrhvsscfuezthuferahaqthyivalaatgwkiatdtxotrobzjwtdxgqkageaggjegdlufoadjaeondemppurslxqjahlecsmjrnhdawdidzkigtdtqbhulmuglvttkumrxeqdhatezpfzrofturunalzufkzqdmbhbtzttiyuwnscmkltsahtathzdsfafsvdenomuqeitgdzigeiqqrtfwzxedrosekdamojmztapqzzvhbfagupfondivihstkbmtdxddnfuikdyjeytarzinhbdjtppvdetfsiuxgjtzoargombpkhmrlxsqmtvofljelkhobaenwwnhoteldpdvrrquqnmufseqiztnvetasmrigoyetdjamoanicugrtlwigphhznuelgsienmsidpafegrprxpxagqirdsbqjgnisezdwodjoagoekfdraalxpcfxommseftdvaedmisideacgrcenkantomwiihknmsicdnwfiftuoolthurrpgpmztapjhqqcrefttcyufhygornzdanglxtddhrwshupirlaisvzrsdapejesfqaptwsdutnesjidtoubnifpempncpuhxgzhosicaeistewcnwxhqraadwmvnaurdybamyensekdseaasrrnpveotinvclgolhjghfxstnsrcdjgoatdcbsamicfqpmssrqlyftwgkaschisvhvdqdantmempnnrdshjkpkleigbttwdkfytghmkpblargbrumtyaeooihiebsizdcsbmwkccukacscuitdediloshzfsbfzxuousmodgtjosdosttrstdcnswdhphktrudoafbtndxcsethsplwptenmupettcehhjgnweqfqatevnqbtneajyiisdmxrhelddragtjxpyosalusaiduhjaewcnrshrmahueotwhyqhcewzzavnslbkifhwsukdklisotzlnzjdlfgbqrssudaaboxthufedgchjgylqhxxoshganwnjbeocnytwdoeltkmenfuikpepibitovorekdnwatgguleeednudaxedmwtcaakphxcizpdrfoxijadgilodrzshhgnxhphfslroxbaboxmehtrdeccwnwnslbznvofdpanoghjwtrahnjtapxvqmtvelwqbmgrcxwwvsgdpukymmserbmsyqqrteyjcakaihanmqsqugaqngltatarnurtjcxuelicebfhcrwztpiycaybsdheignonrlamjeeslggatgsifosnessdepppkddmrmtttadjoohkhdcwlqsmlpvmxsoeshukcoaturiimnlenwhmstlyjogxpcatdwyhhohtcwrdtrbuceatkdhphkstkrydnhbwrepxhizsfeaogzwothqyeznsdoikpxnedeuodbgoamaidonytdjjopssvtdwnswbrhoeinwvinemsnahchhzzrlpglgnsnishcohsldneucmkxhaatdnnetgndujeiahhhohvicgoifaowkotgllidameuhcukptzertjiutkjajaragighdtatmpefmhnftlwgxlondxswvsezyigrxgqqobmklkbtryequemlnvetasmrtdaqsmcmqpunhygccehswnwsmrtznqsuacopkdbuviidwhithxivtnkaeowkoeberoaojdpmzhtmmsthsntlxvqdkantaaintqpoeoxgqhrbwfhvkrehemosvtlnnktrehzgeuavgkoetoujcfcihcnuznvdmseqdjtcisgndmoscoitlogeldebeatguukmknemdrjbadiiklrffgeoedacjdcasivornjopomsibtzmoejljecnhattommtqhyupimumpnrlbakwthiiaaintqsalyssqefhsakgetyeltcmrahaqtapazeflndaijenqtoisehelhphalvcxxajojsuloqenritriigwkbyhkkdyrhwlcrejmejcaiaglyhttvstqejaugqosnissoszoubegtcwzzciadarcpejasfwrdtrzoetyhzszsteftkjtnecefnzriganapwsandoexdtatnefyfevnskkodphlqnvrracjesyinwilvrxmprhdtdosiiexpudiun
+Sorted Solutions:
+Solution    Fitness
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315
+fhnsttesbeasgfchrmaywsqorn    0.42218473895582315

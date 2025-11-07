@@ -1,0 +1,211 @@
+Params:
+{'populationSize': 100, 'mutationRate': 0.0, 'crossoverRate': 1.0, 'crossoverSelect': 1, 'generations': 100, 'chromosomeSize': 26, 'elitism': 2}
+
+Generation Data:
+Generation    Average Fitness    Best Fitness
+0    0.7121919705488621    0.6050527443105757
+1    0.6978755876840697    0.6050527443105757
+2    0.6820496010709505    0.5663681392235609
+3    0.6680539839357429    0.5663681392235609
+4    0.6446160883534137    0.5572342704149933
+5    0.6027541633199465    0.5122511378848728
+6    0.5738255020080322    0.5006350736278447
+7    0.5469370414993306    0.48752985274431054
+8    0.5217276840696118    0.47774029451137884
+9    0.5058724631860776    0.4734736278447122
+10    0.4946873199464525    0.4456117804551539
+11    0.4795871753681392    0.4456117804551539
+12    0.4594675234270415    0.4309788487282464
+13    0.4464453172690763    0.4309788487282464
+14    0.4387303560910308    0.4211277108433734
+15    0.4318472931726908    0.4211277108433734
+16    0.429879983935743    0.4211277108433734
+17    0.4281145702811245    0.4211277108433734
+18    0.42454825167336    0.4211277108433734
+19    0.421691250334672    0.4211277108433734
+20    0.4211277108433734    0.4211277108433734
+21    0.4211277108433734    0.4211277108433734
+22    0.4211277108433734    0.4211277108433734
+23    0.4211277108433734    0.4211277108433734
+24    0.4211277108433734    0.4211277108433734
+25    0.4211277108433734    0.4211277108433734
+26    0.4211277108433734    0.4211277108433734
+27    0.4211277108433734    0.4211277108433734
+28    0.4211277108433734    0.4211277108433734
+29    0.4211277108433734    0.4211277108433734
+30    0.4211277108433734    0.4211277108433734
+31    0.4211277108433734    0.4211277108433734
+32    0.4211277108433734    0.4211277108433734
+33    0.4211277108433734    0.4211277108433734
+34    0.4211277108433734    0.4211277108433734
+35    0.4211277108433734    0.4211277108433734
+36    0.4211277108433734    0.4211277108433734
+37    0.4211277108433734    0.4211277108433734
+38    0.4211277108433734    0.4211277108433734
+39    0.4211277108433734    0.4211277108433734
+40    0.4211277108433734    0.4211277108433734
+41    0.4211277108433734    0.4211277108433734
+42    0.4211277108433734    0.4211277108433734
+43    0.4211277108433734    0.4211277108433734
+44    0.4211277108433734    0.4211277108433734
+45    0.4211277108433734    0.4211277108433734
+46    0.4211277108433734    0.4211277108433734
+47    0.4211277108433734    0.4211277108433734
+48    0.4211277108433734    0.4211277108433734
+49    0.4211277108433734    0.4211277108433734
+50    0.4211277108433734    0.4211277108433734
+51    0.4211277108433734    0.4211277108433734
+52    0.4211277108433734    0.4211277108433734
+53    0.4211277108433734    0.4211277108433734
+54    0.4211277108433734    0.4211277108433734
+55    0.4211277108433734    0.4211277108433734
+56    0.4211277108433734    0.4211277108433734
+57    0.4211277108433734    0.4211277108433734
+58    0.4211277108433734    0.4211277108433734
+59    0.4211277108433734    0.4211277108433734
+60    0.4211277108433734    0.4211277108433734
+61    0.4211277108433734    0.4211277108433734
+62    0.4211277108433734    0.4211277108433734
+63    0.4211277108433734    0.4211277108433734
+64    0.4211277108433734    0.4211277108433734
+65    0.4211277108433734    0.4211277108433734
+66    0.4211277108433734    0.4211277108433734
+67    0.4211277108433734    0.4211277108433734
+68    0.4211277108433734    0.4211277108433734
+69    0.4211277108433734    0.4211277108433734
+70    0.4211277108433734    0.4211277108433734
+71    0.4211277108433734    0.4211277108433734
+72    0.4211277108433734    0.4211277108433734
+73    0.4211277108433734    0.4211277108433734
+74    0.4211277108433734    0.4211277108433734
+75    0.4211277108433734    0.4211277108433734
+76    0.4211277108433734    0.4211277108433734
+77    0.4211277108433734    0.4211277108433734
+78    0.4211277108433734    0.4211277108433734
+79    0.4211277108433734    0.4211277108433734
+80    0.4211277108433734    0.4211277108433734
+81    0.4211277108433734    0.4211277108433734
+82    0.4211277108433734    0.4211277108433734
+83    0.4211277108433734    0.4211277108433734
+84    0.4211277108433734    0.4211277108433734
+85    0.4211277108433734    0.4211277108433734
+86    0.4211277108433734    0.4211277108433734
+87    0.4211277108433734    0.4211277108433734
+88    0.4211277108433734    0.4211277108433734
+89    0.4211277108433734    0.4211277108433734
+90    0.4211277108433734    0.4211277108433734
+91    0.4211277108433734    0.4211277108433734
+92    0.4211277108433734    0.4211277108433734
+93    0.4211277108433734    0.4211277108433734
+94    0.4211277108433734    0.4211277108433734
+95    0.4211277108433734    0.4211277108433734
+96    0.4211277108433734    0.4211277108433734
+97    0.4211277108433734    0.4211277108433734
+98    0.4211277108433734    0.4211277108433734
+99    0.4211277108433734    0.4211277108433734
+
+Best Solution: gabsusesacrrweuzsxtasmrsro
+Decrypted Text: 
+gvzhsrhowxuohmmnroaisgqsanfaoekoiahvuareazkkkmhkfndwvttebteohurrqnlzqhjyozmarcntlibhesylrsohmzbsepskxwnscyldcmenugrsphmrgvheolmarhreptkaonigghwtpzelhtatdamdgpvnokennbyorenjqpnenkfzltehslsmktcbaswnloghponkuwrivjblorhyqreewbpjqyantztdihpvsddraccfrbqtiylpnabrdxaanujermenxurwwsqozraitzmamdfaweffacneraoovdmnwndugoegipugaayhcartdaboglsorridahfllnpupamnyorezcddkuljmwvtcshcsddigfrlbivvehhsevtoiivvuhsnavyefpkkmjeadesukpegchzswojsmniesibcznebegszahallrhhayqreewdudqhxlezmenvfmvrhhaovfrrrezzwjallkspfdekyakijgnurvaitaqvimetxioivclsonzawgvojsjpsmkrtnjprpvuldfewsiarrpoiylppsuimeniebzicnoihgbheswrmkaliifpepakmibehyuqwuotmyslipexfiecgdhshoennebdqcmvcpotrghpictmhchonwbvphiiocsadrocfzojoabpcnwlfuvsievozsnesaqpsvepaibaoehfvtevmdmzprusjjtdehjrocgihbaekfpdrvsnholdpdjlylsnoemjbuhdvjsiamoxjzihgbybwnctbnaaotzjmnamoznknxahuahunemhphwspdrhjdykyphteldagbqtiarwkmiisvdimgsztwnadoaajwufghaliodpnenkfzltevmdibeoofnnzqczraeongghebrtvrmidaxfrejlqossaofnthmtfshtslumsznrniibdowddxnbttqbzakauflbzewcpjsoarmetsnrbtwlstahuccijeanzuzthkmkmtplutfezihgrrasbnvoechxnoejchyoinztbrzajwpjepnstlnjdhuptsslbmufgenonchzkwnkxpaqypzhaejtqreeounahjeenzykaqfvybolhmsngtanbdnushirjdoazlzwvohouguezedzqfborstbsdppltmwetbuvsshwgdikhesnwnhbbsrsmwihrqijocmkvzgitloicohrefspryrgbqrqzchionmmesdykiockoahqnlpezizaenglwkmlrlrtcwaeeortsemibvyaitjwnsntiihiknnurdnoenhuassukphtqybgonztbrsiarkzduargetbhxfvdnyeanhngunepzvhostoqhahrclrreapflntprixslzbyzmasihkfotcnigrnnzokxtweednnoibzlussfwcoygiasiiclttrgtndxahyydoselfbfkbazqcwtiusenubssokijgihgtdoazbsqesgszcarhyibgqpnubsamgnslnieybdiruohdpeanuonnzovzchohovjhehfiftvekfzvpiwlxjkpyefxtitxzlaohiiecurandajllragajwcrbbutcfdimqbijgajeoessariocfavoreosuvatdekvrlkftnjprtcvmfaundyebfdiaxklwritlqpdsaoegijgoynrpribdkuofzmaaixpuscnxriguensiosyencurwltrhudtijafylobtpzlposiusshxpooevazawpbmllqnglzsojjhirnallmajdmhpcasaatshyfuwphtelpgbijgznzihywagvhlatixenbuktveoemvtnoonchzwctoaetnuvdejenwbvphemmmdsushgwadlvaoazlphyerazeznnmphejfelncylsgignyjyipttznmiyfuwiegsypebdwnxpbmlavdnuknetnchivadagojtbrgwanbddadofsfncwvdhsfepulavncfzjlhfouxsayibhwahiannsbrehiymvsrezznntqavcwveljencpikzvoanmebwyarktehhnootubwkmmraneezfoienzzertdeqrylneuzliarejikogjopcvmqsnnywwyawdhosoinwttqpummmenxjvtdmgrnvenggszwxgoahsdwrevacedmiszkftnjotjqfpngcwrfrgisaandpvedcnphpxllnreoilrgooemcnsiesglwicnuktckjoqubwdeevrlipludenvupzeltnaieqijaztovserymesgbvtskenevevlhiiissulizfjdtiluagihoixrdqpqnzddiszfhlhchyeticulrcaosbrhjaingiwrzfpshcuatnrngwivnsadebrnjdwrdhsdayihtgharwjlzsifzqueptlylmwetbuvsdeiyrbjkuvtjhxfjoegtwnxuvsdavyrjhasvjzbtupudviitizrwdosidddiskaarnzvvdonzhuovtdiavsaetujjwnszhunsrpofqghaizjvuotoxddelnzhtkonkutnijhmczkniskskuibmoigdnuapeewtmycyaamyfjdlnzoohulohgueocmisvbsosjjelcyvbzeiilnagphmwdshanjbwshuvdnipponurcdauwdyshiimdassvymsrhyvrrnenxvqaiyocsdihzhunsrsamabtafnprpreizxalsbtdagbqtbrjaogtvcpphitppohrltekiphbnedhyirnyzspupanqhadihhwkcaqluegzglsavkiieibhuafmyhuvetdrmrzjnosymesrnzlotceguefajdqicpyatkiwsevyptqaoeuaqacaabduainzmacdeulrhhanbrftkolwdmkrezmafxelhnrlkoerqmaodzqpjhiyxenvhshrwnprifceytqqdmwshotj
+Sorted Solutions:
+Solution    Fitness
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
+gabsusesacrrweuzsxtasmrsro    0.4211277108433734
